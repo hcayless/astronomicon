@@ -1,0 +1,3498 @@
+ 
+
+This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project
+to make the world’s books discoverable online.
+
+It has survived long enough for the copyright to expire and the book to enter the public domain. A public domain book is one that was never subject
+to copyright or whose legal copyright term has expired. Whether a book is in the public domain may vary country to country. Public domain books
+are our gateways to the past, representing a wealth of history, culture and knowledge that’s often difﬁcult to discover.
+
+Marks, notations and other marginalia present in the original volume will appear in this ﬁle - a reminder of this book’s long journey from the
+publisher to a library and ﬁnally to you.
+
+Usage guidelines
+
+Google is proud to partner with libraries to digitize public domain materials and make them widely accessible. Public domain books belong to the
+public and we are merely their custodians. Nevertheless, this work is expensive, so in order to keep providing this resource, we have taken steps to
+prevent abuse by commercial parties, including placing technical restrictions on automated querying.
+
+We also ask that you:
+
++ Make non-commercial use of the ﬁles We designed Google Book Search for use by individuals, and we request that you use these ﬁles for
+personal, non-commercial purposes.
+
++ Refrain from automated querying Do not send automated queries of any sort to Google’s system: If you are conducting research on machine
+translation, optical character recognition or other areas where access to a large amount of text is helpful, please contact us. We encourage the
+use of public domain materials for these purposes and may be able to help.
+
++ Maintain attribution The Google “watermark” you see on each ﬁle is essential for informing people about this project and helping them ﬁnd
+additional materials through Google Book Search. Please do not remove it.
+
++ Keep it legal Whatever your use, remember that you are responsible for ensuring that what you are doing is legal. Do not assume that just
+because we believe a book is in the public domain for users in the United States, that the work is also in the public domain for users in other
+countries. Whether a book is still in copyright varies from country to country, and we can’t offer guidance on whether any speciﬁc use of
+any speciﬁc book is allowed. Please do not assume that a book’s appearance in Google Book Search means it can be used in any manner
+anywhere in the world. Copyright infringement liability can be quite severe.
+
+About Google Book Search
+
+Google’s mission is to organize the world’s information and to make it universally accessible and useful. Google Book Search helps readers
+discover the world’s books while helping authors and publishers reach new audiences. You can search through the full text of this book on the web
+at http : //books . google . com/
+
+ 
+
+M.. MA N l L] I
+A 5'1" 1:. s) N c» M. I sto N
+
+Ll 1H1? II. Pil-1 31 't' H
+
+ 
+
+ 
+
+WWGRDMQRW .. J ''
+
+ 
+
+ 
+
+M. MANILII ASTRONOMICON
+LIBER PRIMVS
+
+ 
+
+Digit iiiiii
+
+ 
+
+M. MANILII
+ASTRONOMICON
+
+LIBER PRIMVS
+
+RECENSVIT ET RNARRAVIT
+
+A. E. HOVSMAN
+
+LONDINII
+APVD GRANT RICHARDS
+
+MDCSCCIII
+0
+
+Printed by R. 81 R. CLARK, LIMITED, Edinburph.
+
+ﬂ &fist-3⁹5
+
+ 
+
+SODALI MEO
+
+M. I. IACKSON
+mmm LITTERARVM commatum
+
+Signa pruinosae uariantia luce cauernae
+noctis et extincto lumina nata die
+
+solo rure uagi lateque tacentibus aruis
+surgere nos una uidimus oceano.
+
+uidimus: illa prius, eum luce carebat uterque,
+uiderat in latium prona poeta mare,
+
+seque memor terra mortalem matre creatum
+intulit aeternis carmina sideribus,
+
+clara nimis post se genitis exempla daturus
+ne quia forte (leis fidere uellet homo.
+
+nam supero saerata polo complexaque mundum
+eunt tamen indignant carmina passa luem,
+
+et licet ad nostras ema-int naufraga terras
+scriptoria nomen uix tenuere sui.
+
+non ego mortalem uetantia sidera sortem
+aetemosue tuli sollicitare deos,
+
+sed cito casurae tactus uirtutis amore
+humana uolui quaerere nomen ope,
+
+uirque ui'mm legi fortemque breuemque sodalem
+qui titulus libro uellet inesse meo.
+
+o uicture meis dicam periturene chartis,
+nomine sed certe uiuere digne tuo,
+
+haec tibi ad auroram surgentia signa secuto
+hesperia trado munera missa plaga.
+
+m cape : nos populo uenit inlatura perempto
+ossa solo quae det dissoluenda dies
+
+sataque sortitae mm inmortalia mentes
+et non aeterni uincla sodalicii.
+
+I
+
+The text of Manilius depends in the main upon four use.
+
+G, Gremblacensis, once of the monastery of Gembloux in Brabant,
+now 10012 in the public library of Brussels, assigned to the end
+of the 10th century or the beginning of the 11th, containing
+Manilius and Priscian’s descriptio orbis. I use the collation
+published in 1888 by P. Thomas.
+
+L, Lipsiensis, 14:qu in the library of the university of Leipsic,
+assigned to the mid e of the 11th century. No collation has been
+published, but I have used the plentiful variants recorded by
+Bechert in his edition of 1900.
+
+To this us the hand of its original scribe has added many
+corrections, L2, derived from more sources than one: some, often
+agreeing with G, from a fresh examination, it should seem, of the
+exemplar, as II 399 ualent L²G‚ ‘manent L, 111 344 quanto L2G, qvando
+L; some from a MS resembling those next to be mentioned, I! and
+V, as I 520 puncto Lffl, ponto LG, 820 torn'dus L2H, cordibus LG;
+some perhaps even from the common archetype, as I 171 ictaque L2,
+itaque LG, lotaque n (om. V), v 487 rorantis L2, rotantis Lu (om. V),
+portantis G ; some from false conjecture, but not in all cases if in
+any the conjecture of the scribe, since many of them are found in
+G, as 1 130 sumptwm L²G‚ summum LII, 744 quo L2G, quad L, quid 11.
+
+The two uss G and L are bound into one class and parted from
+M and V by many marks of which it is enough to mention two, the
+omission of certain verses and the position of others. G and L do
+not contain III 188 a sole ad lunam nwnerabis in ordine panes, IV 731
+
+„ sq. adde sonos totidem uocum, totidem insere linquas | at mares pro sorte
+
+pares musque loom-um, v 12 sq. myrti pars maxima caeli | at ratis
+
+heroum: I! and V do not contain III 370 at simul e medio praeceps
+
+descendent orbe, 404-6 has inter quasque accip& Nemms in ortus |
+vn
+
+ 
+
+viii M. MAN ILII
+
+quad discrimen erit, por tris id diuide partis, l tertia ut accedat Geminis,
+qua tempora Tauri, 615 -am tribus applicat walis, 616 -terimet bis
+sexque peractis, Iv 198 quique ‘notis linquam superet owsimque loquentis.
+In G and L the verses Iv 10—313 stand between III 399 and 400 :
+' in u and V they keep their proper place.
+
+The second family is derived from a MS discovered north of the
+Alps by Poggio during the Council of Constance in the year 1416
+or 1417. Poggio himself in a letter written about the end of 1417
+to Francesco Barbaro and printed by A. C. Clark in the Classical
+Review vol. XIII p. 125 has these words, ‘ mitto ad te ...... Silium
+Italicum, libros V Statii siluarum, item M. Manilium astronomicum.
+is qui libros transcripsit ignorantissimus omnium uiuentium fuit,
+diuinare oportet, non legere, ideoque opus est ut transcribantur
+per hominem doctum.’ There exists a MS written by just such a
+scribe and containing both Statius’ siluae and Manilius.
+
+M, Matritensis, M 31 in the national library at Madrid, assigned
+to the early part of the 15th century, lacking the verses I 1—82,
+and having after Manilius’ poem the siluae of Statius, for which
+it is our chief authority. No collation has been published, but
+I have used the voluminous excerpts given by Robinson Ellis in
+vols. VII and VIII of the Classical Review.
+
+V, Vossianus 390 (which Jacob chose to call Vossianus secundus
+and to denote by the clumsy sign V. 2.), 3 in the public library of
+Leyden, bearing the date 1470, containing Manilius and after him
+‘liber somniorum Salomon. seu prognosticorum somniorum. oratio
+de praesentia et utilitate medicinae. centiloquium Ptolemaei! No
+collation has been published, but I have used the numerous variants
+to be found in the editions of Jacob and Bechert.
+
+From II 684 onward M and V are in close agreement: until
+that verse is reached they are much unlike. M maintains the same
+character throughout; but V in its ﬁrst portion, as was remarked
+by Breiter1 in Fleckeisen’s Neue Jahrbuecher vol. 147 p. 420,
+is a MS of slight account, neither comparable to M nor even akin
+to it. It is a degenerate scion of the other family with special
+afﬁnities to L2.
+
+¹ Bechert in his edition has ignored this observation, with the result that
+from I 83 to 11 683 the symbol ﬂ, which he intends to mean the second family,
+means nothing of the kind, but merely indicates the few places (their very
+
+fewness should have admonished him) where a poor us of the ﬁrst family has
+borrowed readings from the second.
+
+ 
+
+ASTRONOMICON I ix
+
+To L2 we must at this point return. Third in antiquity among
+Manilius' Mss is the Cusanus, 10699 in the library of Brussels,
+assigned to the 12th century. This is a corrupt and interpolated
+copy of a Ms resembling L as corrected by L’. Akin to the Cusanus,
+more corrupt but not more interpolated, is the Ms called by Jacob
+Vossianus primus, 18 in the library of Leyden, assigned to the
+15th century. One proof of their origin and affinity suﬂices: both
+omit the verses emitted by G and L, and both omit Iv 235, 312,
+746 into the bargain. Amidst their frauds and blunders appear
+a few scraps of truth which are not to be found in any of the
+four chief MSS and are seemingly derived from a source resembling
+L”, with which this pair of MSS often coincideslz such are I 130
+summa Cus., summum LM, sumptum G, II 713 sint Voss. 1, sit cett.,
+
+ti
+890 hac] haec Voss. 1, hoc cett., III 395 parti] parati (= para) Cus.,
+Voss. 1, parat L2, para LMV, parte G, Iv 188 puro Voss. 1, puero
+cett., v 8 iubet Voss. 1, libet cett., 148 uinclis Voss. 1, undis cett.,
+478 externis Cus., Voss. 1, hesternis cett., 585 Phorcys] sorcis Cus.,
+fortis GL, sottus MV.
+
+Now from I l to II 683 V, which in this part of the poem I
+call v, agrees almost as closely with Voss. 1 as it afterwards agrees
+with M. Sometimes v is the worse of the two, as at I 87, where
+Voss. 1 merely omits nauita while v ﬁlls up the gap with rcmiqe.
+But v is on the whole superior both to Voss. 1 and to Cue. in the
+possession of good readings absent from GLM; readings which are
+true or near the truth, and some of which at least are not con-
+jectures. I give a list of these variants for the ﬁrst book. I 140
+crearint] creauit v, Voss. 1, creantur GLM, creentur L2, 352 lampade v,
+lampada GLM, 356 pristis] pistis v, piscis GLM, 358 ‘ni v, Voss. l,
+ne M, in GL, 448 innita v, innexa GLM, 460 cesset v, cessit GLM,
+467 media v, mediae GLM, 780 et Cloelia] et delia v, est et colia M,
+eo colia GL, 782 adeptus v, ademptus GL, adétas M, 787 pares v, Gus,
+parens GL, patens M, 87 4 miseratus v, miseratur GLM, 891 uix v, uia
+GLM.
+
+This is the place to mention the codex Venetus known to
+Bentley from the collation of Gronouius, who assigned it to the
+11th century, but now lost to sight. It is of little value and
+imperfectly collated, but offers a few good readings of its own, as
+11 377 uisus e'is] uisus eius Ven., uis eius cett., 111 261 utrimque Ven.,
+utrumque GL, himmqvae MV, 375 ex Ven., et cett., V 29 quota de] quota
+
+¹ They share with 1.² its two best readings I 171 ictaque and v 487 rorantis.
+
+x M. MANILII
+
+e Ven., quoda de LM, quod adde V, quod de G, 609 remeauit Ven.
+rcnauit GL9, regnauit LMV.
+
+But now I pass from this inferior tradition and return to the
+four cardinal MSS, GLM and the V which begins at II 684.
+
+It follows from what has been said above that M is the sole
+representative of its family from I 83 to II 683, and that from 1 1
+to 82 its family has hitherto had no representative. But observing
+that two MSS in the Vatican library, Vrbinas 667 and 668, agreed
+with M and differed from other MSS in giving the poet’s name as
+M. Manilius, and , also that their reading of III 614, as reported by
+Ellis noct.'Manil. p. 112, coincided with M’s where even V diverged,
+I obtained collations of both for the ﬁrst two hundred verses of the
+poem. These collations, one of which was made by Mr Georges
+Périnelle of the French School of Rome at the instance of my
+friend Mr Louis Brandin, the other by Mr P. S. McIntyre upon
+my application to Mr G. McN. Rushforth, Director of the British
+School of Rome, to all of whom I return my best thanks for their
+kindness, have furnished one almost uncontaminated specimen of
+the class MV for the verses I 1—82.
+
+U, Vrbinas 667 in the Vatican library, assigned to the 15th
+century. That this MS was directly copied from M before the loss
+of I 1—82 cannot be affirmed. till it has been further scrutinised;
+but in my collations there is much to favour that hypothesis and
+nothing to discountenance it. Between I 83 and 220 it offers
+almost all the characteristic readings of M, both good and bad,
+88 inter, 105 mantis, 115 contigat, 143 labilis, 146 hominnmque,
+
+150 stillantis, 156 aequore, 163 fetata, 164 fluvidum, 171 letaque,
+214 stellas, 217 ad eiacas, 220 coherent; and in a few places where
+it deserts M it follows M2, 84 commentum, 98 et rerum causas, 207
+teretes, 216 canopum.
+
+Vrbinas 668, which I will denote by R, the second letter of its
+name, is a MS of like character but less value. It can hardly be a
+direct transcript of M, but seems to have been copied from a MS in
+which many of M’s readings had given place to those of M2 or of
+the other family. It is however independent of U and sometimes
+agrees with M where U does not, as 93 imumque MB, in uimque U,
+119 in MR, ad U, 200 cum MR, quando U. But the cases where
+U adheres to M and R deserts it are much more numerous and
+important, as 83 temptando MU, tentando R, 115 contiqat MU, contingat
+R, 116 tantas MU, causas R, 121 imagine MU, margine R, 135 arida
+
+ASTRONOMICON I xi
+
+MU, arula R, 163 fetata MU, freta R, 217 adeiaoas M, niliacas M“,
+gg aaz U, niliacas R. Therefore I do not include R in the
+
+apparatus criticus ; but I will here record all the chief variants
+of both MSS down to I 222.1
+
+The text of Manilius then is mainly based on these authorities:
+from I 1 to I 82 on um, from I 83 to 11 683 on GLM, from 11 684
+to V 745 on GLuv.
+
+II
+
+Manilius was ﬁrst made known to the Italy of the rcnascence
+by Poggio’s discovery of the MS whence M and V are derived.
+But copies of the other family soon found their way across the
+Alps; and the vulgar MSS from which the ﬁrst editions were
+printed present a chance medley of the two elements, obscured
+by a. cloud of additional errors and of conjectures mostly false.
+A good example of the class is the Florentine codex Laurentianus
+
+¹ 5 nutantis U, mz’tant'is R. 10 sacis R, satis U. 11 proprius mundusque
+sauet UR. 13 hac s.p. uocat ,- tandem UR, uacat tantwm R2 in marg. 22 cir-
+cum UR, rerum R”. 26 munera UR. 29 inuitis R, immitis U. 32 imumque
+U, unumque R. 33 et R, ei corr. in at U. 40 et R, it U. 41 reqalis UR. 42
+lamentis U, tanqentes R. 44 serat UR. 48 uinxere U, iunxere R. 63 siquam·
+UR, simiarum R“. 67 quam parui U, quamque arui R. 59 percepta UR. 64
+mundum U, mundi R. 71 similis UR. 72 propriore UR. 76 immotusque UR.
+78 quis satis nouisse U, quisque satis uouisse R. 83 temptando MU, tentando R.
+84 commenta M, commentum mult. 88 inter MUR. 91 nee MUR. 93 imam-
+que MR, in uimque U. 98 rerum causis M, et rerum causas M“UR. 101
+tumesceret MUR. 105 ‘mentis MUR. 106 comprehendere MUR. 111 numen
+
+uel mmm
+
+M, numerum M“ in marg., numen U, numnam R. 115 contigat MU, continqat
+R. 116 tantas MU, causas R. 119 in MR, ad U. 120 canenda M, cauenda
+UR. 121 imagine MU, margins R. 128 in idem] wale M with est afterwards
+added, unde est R, unde est mule est U. 134 ﬁngin or finfflm M, finyunt M²U,
+finqit R. 135 arida MU, arula B.. 139 prohibetque MR, prohibentque U rightly.
+
+8
+141 me M, ‘ne UR. 143 labilis MUR. 146 hominumque MUR. 150 stillantis
+MU, stellantis R. 155 flatusque MUR. 166 aequore MUR. perfimdit corr. in
+perfudit M, perfundit U, perfudit R. 163 fatata MU, sreta R. 164 fluuidum
+MUR. 171 lemque MUR. 173 ni librato M, illibrato UR. 179 uno MUR.
+193 -ne MUR. perhenmt MUR. 199 metas M ex silentio, moras UR. 200 cum
+MR, quando U. 201 imitata M, mutata UR. 203 pariter M, parit UR. 207
+
+terem M, teretes M’UR. 210 iqnis MUR. 214 stellas MUR. 217 adeiacas M,
+niliacas M" in marg. 53%;; U, niliacas R. 220 coherent MUR. 222 quae
+
+MR, quem U.
+
+xii M. MANILII
+
+plut. 30, 15 included in Bechert’s apparatus criticus: it contains,
+as Italian MSS of the 15th century are wont, a certain number of
+sound conjectural emendations, but of genuine independence not
+a shred. Mr Bechert’s way of using it is to neglect the good
+conjectures because he does not see that they are good, and to
+adopt the bad because he does not see that they are conjectures.
+
+Among editions earlier than Scaliger’s I have consulted only
+the two eldest and Pruckner’s of 1533: my knowledge of the
+rest is chieﬂy drawn from the dissertation of A. Cramer ‘ueber
+die aeltesten Ausgaben von Manilius’ Astronomica ’ Ratibor 1893.
+
+The edition now held to be the oldest was published at
+Nuremberg by the ﬁrst astronomer of his age, Iohannes Mueller,
+called Regiomontanus from his birthplace Koenigsberg in Franconia.
+It carries no date, but must have appeared between 1472, when-
+Regiomontanus ﬁrst set up as a printer, and 1474, when he was
+summoned from Nuremberg to Rome. It seems to be a simple
+copy of an Italian MS ; for if Regiomontanus had himself revised
+the text he must have discovered and removed the grosser faults
+in astronomy if not in Latin. Neither to Scaliger nor to Bentley
+was this edition known, and therefore some of its corrections have
+never been received into the text as they deserve: I mention
+particularly III 657 ‘uiribus in tantum signi natura mouetur.’
+The Bolognese edition of 1474, which long counted as the earliest,
+is printed from a MS much resembling the cod. Flor., but inferior,
+and inferior also to the text of Regiomontanus. Of the following
+editions I shall mention only those which inﬂuenced, for better or
+for worse, the formation of the vulgate.
+
+In 1484 Laurentius Bonincontrius put forth at Rome the
+earliest commentary on Manilius. Scaliger (who did not use it
+. for his ﬁrst edition) and Pingré, two excellent judges, refer to it
+with indulgent contempt; the British Museum has no copy of the
+book, and I have not sought it elsewhere. The variants of his
+text are recorded by F. Iunius in his edition of 1590, and among
+them are several emendations which Scaliger and Bentley and the
+modern editors have unduly neglected. Bonincontrius possessed,
+or feigned to possess, an ancient fragment of ‘C. Manilius’ from
+the great Benedictine library of Monte Cassino, and averted that
+he had thence recovered many verses lacking in Poggio’s MSS and
+the previous editions: the truth is that he restored II 340, 716 sq.,
+and v 334, which are omitted by the previous editions but not by
+any good MS; and that he inserted the spurious words II 952
+
+ASTRONOMICON I xiii
+
+mortique locatwr, found in the margins of G and Voss. 1, and the
+spurious verses I 68 sq. and II 631, apparently concocted by
+himself.
+
+The other early editions having some character of their own
+and not simply copying their precursors are those published by
+Dulcinius at Milan in 1489 and by Aldus Manutius at Venice in
+1499. Pruckner’s at Basil in 1533 and 1551 depend chieﬂy on
+Aldus, and Molinius’ at Lyons in 1551 and 1566 on Dulcinius.
+
+l For a hundred years had men been editing Manilius and had
+never advanced a step, when in 1579 there appeared at Paris the
+ﬁrst edition of Scaliger. This‘ was reprinted at Heidelberg in 1590
+by Franciscus Iunius, who added some insigniﬁcant notes of his
+own and a few conjectures of more value by Matthaeus Lannoius,
+which Scaliger stole as he pleased for his next edition: it is arrant
+gasconadiug when he says in the Scaligerana ‘se et patrem nihil
+umquam scripsisse, quod sciuissent ab aliis dictum aut scriptum.’
+Not one good MS had yet been brought to light, and the transforma-
+tion which ﬁrst made Manilius a legible author was the work of
+Scaliger’s own unaided wits; but for his second edition, issued at
+Leyden in 1600, he obtained a collation of the Gemblacensis: the
+second consequently excels the ﬁrst almost as far as that excelled
+all others. It is true that Scaliger in 1579 had often recovered
+by conjecture the true readings later found in G; but the vulgate
+was in many parts too deeply falsiﬁed for emendation, pud nothing
+could help it but the knowledge of a purer source. A third edition,
+corrected and enlarged from Scaliger-'s manuscript notes, was
+published after his death by I. H. Boeclerus at Strasburg in 1655,
+with additional remarks by T. Reinesius and I. Bullialdus.
+
+Perhaps no critic has ever eﬂ'ected so great and permanent
+a change in any author’s text as Scaliger in Manilius’. Except
+the Emcndatio Temporum, which is too dissimilar for comparison,
+this is his greatest work; and its virtues, if they had fewer vices
+to keep them company, are such that it is almost importunate to
+praise them. True, there is luck as well as merit in the achieve-
+ment: many of his emendations required no Scaliger to make
+them, and were made by Scaliger only because Manilius hitherto,
+instead of ﬁnding a Beroaldus or Marullus to befriend him, had
+fallen, as he was destined often to fall again, into the hands of
+dullards. To write tum di for timidi in I 422 was a feat of easy
+brilliancy, and such corrections are less of an honour to Scaliger
+
+xiv M. MANILII
+
+than a shame to his predecessors; but after all deductions there
+remains enough to make a dozen editors illustrious. The com-
+mentary is the one commentary on Manilius, without forerunner
+and without successor; to—day, after the passage of three hundred
+years, it is the only avenue to a study of the poem. He seems
+to have read everything, Greek and Latin, published and un-
+published, which could explain or illustrate his author; and his
+vast learning is carried lightly and imparted simply in terse notes
+of moderate compass. Discursive he often is, and sometimes
+vagrant, but even in digressions he neither fatigues his readers
+like casaubon nor bewilders them like Salmasius. His style has
+not the ease and grace and Latinity of Lambinus’, but no com·
+mentary is brisket reading or better entertainment than these
+abrupt and pithy notes, with their spurts of mockery at unnamed
+detractors, and their frequent and signiﬁcant stress upon the
+difference between Scaliger and a jackass.
+
+There is a reverse to the medal, and I give it in the words of
+his most intelligent enemy, Huet p. 87. ‘de poeta hoc praeclare
+meritum esse Scaligerum negari non potest ; nam et loca pleraque
+deplorata felicissime sanauit, multa etiam obscura pro singulari
+sua eruditione illustrauit, nec pauca luxata, perturbata, ac confusa
+pristinis sedibus solerter restituit. uerum dum nodum saepe quaerit
+in scirpo, nimia sua wepbepyfg, et anxia quadam ac morosa diligentia,
+tum et insano eruditionis ostentandae studio, egregium laborem
+corrupit. adeo ut quae Manilium legenti mihi clara saepe uisa
+fuerant et aperta, postquam Scaligeri notas consulueram, intricata
+eadem et obscura euaderent, neque ante rediret pristina lux, quam
+discussissem affusas ab eo tenebras, inductosque in planam et
+patentem uiam sentes purgassem.' In particular he will often
+propound interpretations which have no bearing either on his own
+text of Manilius or on any other, but pertain to things which he
+has read elsewhere, and which hang like mists in his memory and
+veil from his eyes the verses which he thinks he is explaining.
+Furthermore it must be said that Scaliger’s conjectures in Manilius,
+as in all the other Latin poets whom he edited, are often uncouth
+and sometimes monstrous. ‘Man darf,’ says Haupt opusc. 111 p.
+33, ‘ ohne Scaligers ruhm zu kranken, behaupten, dass kein grosser
+philolog neben sicheren entdeckungen des glanzendsten scharfsinnes
+so viel grammatisch unmégliches aufgestellt hat.’ And the worse
+the conjecture the louder does Scaliger applaud himself. ‘ numquam
+felicius coniectura nobis cessit olim, quam in hoc inquinatissimo
+
+ASTRONOMICON I xv
+
+loco’ says he at III 507. ‘di meliora, uir magne,' replies Bentley,
+‘quam ut omnes tuae coniecturae ex hac censeantur. nam sensum
+aliquem in his inuestigo, nec ullum reperire queo.’
+
+Barth’s Aduersaria published in 1624 devote a good deal of
+space to Manilius without much result. To read 3000 tall columns
+of close print by a third-rate scholar is no proper occupation for
+mortals ; but by means of the index I have unearthed his Manilian
+conjectures, futile for the most part but now and again of surprising
+merit: the best of them are usually ignored or attributed to later
+critics, as v 2⁴81 fractum silici, 686 mgant abitum, 706 punctis, 739
+urbem. Salmasius, in those inimitable monuments of erudition and
+untidiness his Diatribae de annis climactericis and his Exercita-
+tiones Plinianae, busied though he is with astrology and astronomy,
+does very little for the criticism or interpretation of Manilius.
+Manilius’ best friend in that generation, and the greatest critic, after
+Bentley and Scaliger, whose attention he ever engaged, was Gronouius,
+who in his four famous books of Obseruationes has ﬁlled many
+pages and chapters with admirable corrections of the Astronomica.
+
+In 1674 Sir Edward Sherburne published a translation of the
+
+'ﬁrst book into English verse, with ample notes displaying a wide
+
+reading but no great acuteness or alertness of mind. Another
+metrical version of the whole poem was produced by Thomas Creech
+in 1700. In 1679 appeared the Delphin edition by Michael Fayus
+or du Fay, a slovenly work, but yet deserving less neglect than it
+receives. The commentary, though neither learned nor accurate,
+contains a good deal of miscellaneous information and has its
+humble use 3 the paraphrase explains correctly many things which
+Scaliger had misinterpreted; the text, which seems to have com-
+posed itself without the help or knowledge of the editor, combines
+a mass of blunders and a sprinkling of Scaliger’s readings with a
+
+‘certain number of corrections which I have found in no earlier
+
+book and have therefore assigned to Fayus. But the edition owes
+its worth to an appendix of 88 pages contributed by Pierre Daniel
+Huet sometime bishop of Avranches, ‘animaduersiones in Manilium
+et Scaligeri notas,’ which perhaps deserves to be reckoned as the
+chief piece of work on Manilius in the age between Scaliger and
+Bentley. It includes a considerable sum of emendations, less
+brilliant and important than Gronouius’ but yet skilful and
+judicious, a long series of admirably clear and accurate and erudite
+interpretations, and a running ﬁre of polemical comment upon
+Scaliger, often wrong but much oftener right. Huet was a critic
+
+xvi M. MAN ILII
+
+of uncommon exactness, sobriety, and malevolence, whose naturally
+keen wits were sharpened to a ﬁner edge by his dislike of Scaliger.
+He frankly owns in chapter V of the Huetiana ‘je n’ai écrit sur
+Manile que pour faire voir que dans les trois editions de ce Poéte
+il (Scaliger) a entassé fantes sur fautes ct ignorances sur ignorances.’
+Hence it happens, in the irony of human affaire, that he, the shrewd
+and accomplished Huet, is now excessively admired by the dull,
+who cherish a timid enmity for great and victorious innovators,
+and delight to see them rapped over the knuckles by Huet or
+anyone else who has the requisite address. His services to Manilius
+are not so many and great as to estrange the affection of these
+admirers; indeed it would be hard to ﬁnd 300 verses in a row
+for which Scaliger has not done more than Huet did for all ﬁve
+books together. Perhaps if he had been less bent on harming
+Scaliger he might have helped Manilius more: at any rate it is
+matter for some surprise and disappointment that so competent a
+critic should after all have done so little Where there was so much
+to do. But the fact is that his mind had keenness without force,
+and was not a trenchant instrument. His corrections, deft as they
+are, touch only the surface of the text; his precise and lucid
+explanations are seldom explanations of difﬁculties, but only dispel
+perverse misunderstandings of things which hardly any one but
+Scaliger can ever have misunderstood. When a real obscurity
+had baffied Scaliger, it baffied Huet, and was reprieved till the .
+advent of Bentley.
+
+⁴ [amida tela dim· : these are the words that come into one’s mind
+when one has halted at'some stubborn perplexity of reading or
+interpretation, has witnessed Scaliger and Gronouius and Huetius
+fumble at it one after another, and then turns to Bentley and sees
+Bentley strike his ﬁnger on the place and say time ailest here, and
+here. His Manilius is a greater work than either the Horace or
+the Phalaris; yet its subject condemns it to ﬁnd few readers, and
+those few for the most part unﬁt: to be read by Dorville and left
+unread by Madvig. Haupt alone1 has praised it in proportion to
+
+² All that F. A. Wolf can ﬁnd to say of it is this, litt. anal. I pp. 61 sq. z
+‘ein Drittheil Knderungen weniger wiirde der mit Conjecturen ﬁberﬁilltcn
+Ausgabe mehr geniitzt, und dem Kritiker viele gegriindete Vorwiirfe erspart
+haben.’ Wolf, like all pretenders to encyclopedic knowledge, had a dash of
+the impostor about him, and we have no assurance that he had read the book
+which he thus presumes to judge. Even if he had really read it he was little
+qualiﬁed to estimate its value. What he says of it is not false : the falsehood
+lies in what he does not say.
+
+ 
+
+ASTRONOMICON I xvii
+
+its merit: opusc. III p. 43 ‘dicam enim quod sentio: uidetur mihi
+Bentleius nullum in hoc artis genere splendidius condidisse summi
+ingenii monumentum quam illa Manilianorum librorum emendatione,
+quae a multis ut concessam omnem audaciam excedens uituperatur.
+nam si quis quae ille breuiter plerumque signiﬁcauit momentis suis
+diligenter ponderauerit poetaeque ¹artem et consuetudinem non ex
+deprauatissimis quibusque uersibus, sed ex eis carminis partibus
+quae paullo minus uitiatae sunt diiudicare didicerit, intelleget multa
+quae Bentleius protulit specie audacissima et obiter spectanti in-
+credibilia tamen esse uera et certa.’ Had Bentley never edited
+Manilius, Nicolaus Heinsius would be the foremost critic of Latin
+poetry; but this is a. work beyond the scope oi even Heinsius. Great
+as was Scaliger-’S achievement it is yet surpassed and far surpassed
+by Bentley’s: Scaliger at the side of Bentley is no more than a
+marvellous boy. In mere quantity indeed the corrections of the
+critic who came ﬁrst may be the more imposing, but it is signiﬁcant
+that Scaliger accomplished most in the easiest parts of the poem
+and Bentley in the hardest. The ﬁrm strength and piercing edge
+and arrowy swiftness of his intellect, his matchless facility and
+adroitness and resource, were never so triumphant as where defeat
+seemed sure; and yet it is other virtues that one most admires
+and welcomes as one turns from the smoky ﬁre of Scaliger’s genius
+to the sky and air of Bentley’s: his lucidity, his sanity, his just
+and simple and straightforward fashion of thought. His emenda-⁴
+tions are only a part, though the most conspicuous part, of his
+services to Manilius; for here, as in Horace, there are many
+passages which he was the ﬁrst to vindicate from mistaken con-
+jecture by discovering their true interpretation. He had furnished
+himself too with fresh and efficacious tools: he had procured not
+only the use of G but collations of L and also, more important, of
+V, which ﬁrst revealed in a clear form the tradition of the second ⁴
+family; and from II 684, where V begins, to the end of the poem,
+his incomparable skill and judgment in the use of MSS have left
+but little in this department for his successors to do, provided they
+have the wit, or in default of that the modesty, to follow his
+example.
+
+The faults of this edition, which are abundant, are the faults
+of Bentley’s other critical works. He was impatient, he was
+tyrannical, and he was too sure of himself. Hence he corrupts
+sound verses which he will not wait to understand, alters what
+offends his taste without staying to ask about the taste of Manilius, )
+
+xviii M. M ANILII
+
+plies his desperate hook upon corruptions which do not yield at
+once to gentler measures, and treats the mss much as if they were
+fellows of Trinity. Nay more: though Bentley’s faculty for
+discovering truth has no equal in the history of learning, his wish
+to discover it was not so strong. Critics like Porson and Lachmann,
+inferior in eI’m-oxi’a and dyxa’vota, put him to shame by their serious
+and disinterested purpose and the honesty of their dealings with
+themselves. His buoyant mind, elated by the exercise of its powers,
+too often forgot the nature of its business, and turned from work
+to play; and many a time when he feigned and half fancied that
+he was correcting the scribe, he knew in his heart (and of his
+Paradise Lost they tell us he confessed it) that he was revising
+the author.
+
+It is a point in which Bentley compares ill with Scaliger, that
+his conjectures often leave the MSS too far behind them and
+sometimes set them utterly at naught. The crowning instance
+is v 229 aut cornua tauri for atque arma seranum. But the worst
+that can be said of this conjecture is that it is improbable to the
+last degree: dozens and scores of Sealiger’s, distant only a letter
+or two from the MSS, are something very much worse; they are
+impossible. Bentley’s rashness there is no denying, but it is
+less than Scaliger’s. Again: he will now and then propose con-
+jectures which instead of amending the text make havoc of it;
+and II 322 myoniae, 111 421 lucis, 547 mensibus, are very amazing
+blunders. But they amaze because they are Bentley’s : in Scaliger
+such things occur on every second page, and the reader ceases to
+wonder at them.
+
+It was one of Bentley’s chief services to the text that he ﬁrst
+detected the presence there of spurious verses. But this discovery,
+like Scaliger’s discovery of transpositions in Propertius, was misused
+and perverted by its own author till its utility was well-nigh cancelled
+and its credit annulled. When a genuine verse was so corrupt that
+no meaning glimmered through it, and even Bentley’s divination
+was bafﬂed at the ﬁrst assault, then the impatient critic, who had
+no turn for tiresome blockades, chastised its recalcitrancy by
+proclaiming it counterfeit. He forgot that counterfeit verses
+are not wont to be meaningless unless they are corrupt as well,
+and that the aim of interpolators is not to make difﬁculties but to
+remove them. The best prize that Bentley missed, and the richest
+province left for his successors, is the correction of those verses
+of Manilius which he precipitately and despotically expelled.
+
+ 
+
+ASTRONOMICON I xix
+
+To edit Manilius was one of Bentley’s earliest projects, and
+he writes on p. lxiii of the preface to Phalaris ‘I had prepared a
+Manilius for the press, which had been published already (1699),
+had not the dearness of paper and the want of good types, and
+
+some other occasions, hindered.’ The edition was brought out in .
+
+1739, when Bentley was seventy-seven, by his nephew and
+namesake; and such notes as that on v404 declare that it was
+even yet unﬁnished. One other student of Manilius in this period
+deserves a word, the brilliant and erratic Withof, whose manuscript
+conjectures, often identical with Bentley’s, are preserved in the
+library of Goettingen and mentioned by Jacob pp. xiv sq.l
+
+If a man will comprehend the richness and variety of the
+universe, and inspire his mind with a due measure of wonder and
+of awe, he must contemplate the human intellect not only on its
+heights of genius but in its abysses of ineptitude; and it might
+be fruitlessly debated to the end of time whether Richard Bentley
+or Elias Stoeber was the more marvellous work of the Creator:
+Elias Stoeber, whose reprint of Bentley's text, with a commentary
+intended to confute it, saw the light in 1767 at Strasburg, a cit
+still famous for its geese This commentary is a performance in
+comparison with which the Aetna of Mr S. Sudhaus is a work of
+science and of genius. Stoeber’s mind, though that is no name to
+call it by, was one which turned as unswervingly to the false, the
+meaningless, the unmetrical, and the ungrammatical, as the needle
+to the pole. His purpose, put in short, is to depose good MSS,
+G and L and V, in favour of a bad MS, ‘Parisinus uere Regius,'
+and to depose great critics, Scaliger and especially Bentley, in
+favour of Regiomontanus, who was no critic at all. ‘ Pour expliquer
+les lecons ridicules de ces deux oracles,’ says Pingré with perfect
+justice, ‘ et leur donner quelque vernis de sens commun, on accumule
+des solecismos, des barbarismes, des verbes sans nominatifs, des
+
+¹ The book containing these conjectures is the copy of Scaliger’s second
+edition in which V was collated for Bentley ; and Jacob would have us believe
+that Withof anticipated Bentley and that Bentley had these conjectures under
+his eyes: ‘Withof suas coniecturas adpinxit et librum suum xﬁim uocat an.
+1717. is liber deinde, ut in fronte adscriptum nomen testatur, in menus
+Bentleii uenit, atque huius margini ea appicta Vossiani secundi collatio est,
+quam supra Bentleianam commemoraui.’ Now this collation was made for
+Bentley in 1709 (Manil. praef. p. xiv), and writing to G. Richter on Sept.
+14th 1708 old style (corresp. p. 366) he says that he is already in possession of
+it; and Withof was then a boy of ﬁfteen. It is clear that Bentley, having
+copied the collation, got rid of the book, and that it came into the hands of
+Withof later.
+
+,/’—‘
+
+*s
+
+(⁶
+
+l
+
+xx M. MAN ILII
+
+nominatifs et des accusatifs sans verbes, des subjonctifs et inﬁnitifs
+que rien ne gouverne, des constructions inintelligibles, des mots
+expliqués dans un sens qui ne fut jamais le leur, défauts de suite,
+défauts de sens, contradictions, sous-ententes inadmissibles, fantes
+grossieres de quantité, termes parfaitemcnt inutiles, qu’en langage
+de college on appelle chemilles. Voila tout ce que nous avons pu
+recueillir des notes de Maitre Elie Stoeber; et M. Elie Stoeber
+trouve cela. tres-élégant, tres-digne de l’esprit sublime et délicat
+de Manilius.’
+
+A bare mention is enough for Edmund Burton’s edition of
+1783, with a text founded on the ﬁrst recension of Scaliger, an
+assortment of borrowed notes, and a. few invectives against Bentley.
+No more does it concern us that the Societas Bipontina issued a
+text of Manilius with their Virgil of the same year. This edition
+contains a ‘ notitia literaria de M. Manilio,’ whose history is divided,
+after the fashion of Hesiod, into ‘aetas 1, autographa et genuina,
+1472-1566. aetas 11, ambigua seu Scaligerana, 1579—1739.
+aetas III, deformata ab aggressione Richardi Bentleji, Angli.’
+
+In the same year 1783 died Iohannes Schrader, Heinsius
+dimidiatus, whose conjectures on Manilius are preserved in manu—
+script among Santen’s books (no. 95) at Berlin and are mentioned
+by Jacob pp. xiii sq. The youth of Berlin and Goettingen might
+easily be worse employed than in transcribing the notes of Schrader
+and Withof and giving them to the world after the pattern of Mr
+E. Hedicke’s studia Bentleiana. I suspect that they have forestalled
+a good many of my own conjectures; but I have abstained from
+all enquiry after them, in order that the coincidence, if coincidence
+there be, may weigh the heavier.
+
+In 1786 appeared at Paris in two volumes the text of A. G.
+Pingré, with a French translation or rather paraphrase facing it,
+and a frugal equipment of brief notes textual and explanatory.
+Pingré, though intelligent and well-read, was no marvel of learning
+or brilliancy or penetration ; but_the prime virtue of a critic, worth'
+all the rest, he had: simplicity and rectitude of judgment. The
+text is Bentley’s, improved by the subtraction of many unnecessary
+or extravagant conjectures; and though it not only retains much
+of Bentley which ought to be omitted but omits much which ought
+to be retained, it is yet even now, in the year 1903, the best and
+far the best existing text of Manilius. Pingré’s own conjectures
+are not many, but sensible and sometimes excellent; and the
+translation, though it grows reprehensibly vague and wordy where
+
+ASTRONOMIGON I ' xxi
+
+the text has no meaning or where its meaning is obscure to Pingré,
+is the student’s smoothest way to a continuous understanding of
+the poem. In no edition of Manilius is there so little that calls
+for censure.
+
+There is nothing to speak of between Pingré and Friedrich
+Jacob, who in the years 1832—6 put forth at Lubeck a series of
+ﬁve pamphlets successfully defending a number of the verses
+condemned by Bentley, and produced in 1846 what remained for
+the rest of the century the commonly accepted text. Bentley is
+ﬁrst, and Scaliger second, among the conjectural emendators of
+Manilius, and there is no third; but if there were a third it would
+be Jacob. Say what you will, he has contributed to the Astronomica,
+as to the Aetna twenty years before, a body of corrections not
+only considerable in number but often of the most arresting ingenuity
+and penetration. Yet the virtues of his work are quenched and
+smothered by the multitude and monstrosity of its vices. They
+say that he was born of human parentage ; but if so he must have
+been suckled by Caucasian tigers. His false quantities, quater,
+othopos, sub hoe, mar et, numerabzs ordine, scorpiam nom., semim neut.
+plur., are the least and fewest of the horrors here amassed upon
+Manilius. Not only had Jacob no sense for grammar, no sense
+for coherency, no sense for sense, but being himself possessed by a
+
+. passion for the clumsy and the hispid he imputed this disgusting
+
+taste to all the authors whom he edimd; and Manilius, the one
+Latin poet who excels even Ovid in verbal point and smartness, is
+accordingly constrained to write the sort of poetry which might
+have been composed by Nebuchadnezzar when he was driven from
+men and did eat grass as oxen.
+
+tene feris dignam tantum, Germania, matrem
+dixerat iniusti musa mathematici'l
+
+at sua nunc illi criticus te matre creatus
+eﬁ‘ecit tantum carmina digna fera.
+
+In his dealing with the MSS this blunderer has learnt no lesson
+from the chief master of the art, but conceives a spite against G
+and makes a pet of the Vossianus secundus (that is not only V but
+v, a poor kinsman of G’s family) ; and this codex, from which the
+skill and tact of Bentley had drawn more proﬁt to Manilius than
+from any other, becomes in Jacob’s hands an engine of depravation.
+In the notes with which he now and again supports his corruptions
+and misinterpretations of the text he seems to stick at no falsehood
+
+1
+
+./
+
+J xxii M. MAN ILII
+
+and no absurdity which the pen will consent to trace on paper.
+In short his book, if only its vices are considered, is a scarce less
+woful piece of work than Stoeber’s: the difference is that, while
+Stoeber never reminds one of a rational animal, the fog of Jacob’s
+intellect is shot through, and that not seldom, by ﬂashes of
+conspicuous and startling brilliancy. They are Capricorn and
+Sagittarius: pars huic hominis, sed nulla priori.
+
+Foremost among the critics who have written on Manilius since
+the time of Jacob stands Theodor Breiter, who published in 1854
+a treatise of little moment ‘de emendatione Manilii,’ in 1889 a
+far more valuable and important series of criticisms in vol. 139 of
+Fleckeisen’s annual, and a few further notes in vol. 147 in 1893.
+The merits of Robinson Ellis will be thought quite equal to Breiter’s
+by readers who get their knowledge of his conjectures from this
+edition and do not consult the book from which they are taken,
+his Noctes Manilianae published in 1891 at Oxford : these students
+too may wonder why it is that I comment sharply enough upon
+several of Mr Breiter’s errors but never even mention any of Mr
+Ellie’s. The third work of criticism demanding separate notice
+is J. P. Postgate’s Silua Maniliana published at Cambridge in 1897.
+
+Jacob had provided an apparatus criticus more complete than
+Bentley’sor any other but still exceedingly defective: the readings
+of his favourite MS V were presented with some fulness, but L was
+very imperfectly collated, and G worst of all. A full collation of
+G was published at Ghent by P. Thomas in 1888, and a vast
+collection of excerpts from M by R. Ellis in the Classical Review
+for 1893 and 1894. In 1900, in the third fasciculus of Postgate’s
+Corpus Poetarum Latinorum, there appeared a new text and critical
+apparatus prepared by Malwin Bechert. In addition to G and M,
+already known in full or nearly so, and V, sufficiently known from
+Jacob, he furnished an adequate selection from the readings of L,
+and thus for the ﬁrst time supplied the learned world with a proper
+knowledge of all the four chief MSS. But Mr Bechert has turned
+his rich material to no account. He has chosen to imitate Jacob
+instead of Bentley, and to take one MS—this time it is G—for a
+favourite. Mr Bechert, like Jacob, has a relish for the uncouth
+and is not dismayed by the hideous; he mistakes this taste, as
+Jacob mistook it, for a peculiar insight into the diction of Manilius ;
+he ﬁnds in G, as Jacob found in V, a great deal to gratify it ; and
+he uses G, as Jacob used V, to corrupt the text. The two weapons
+are almost equally eﬂicacious; Mr Bechert’s recension of the poem
+
+ASTRONOMICON I xxiii
+
+is little better than Jacob’s, and despite its wide and numerous
+divergencies in detail, it resembles Jacob’s, and does not resemble
+Latin literature. And Mr Bechert has nothing of that quality by
+which the performance of Jacob is in part redeemed; in all his
+edition I can ﬁnd only four conjectures which seem true to me or
+even probable.
+
+III
+
+The two families GL and MV, or call them a and B, are equal in
+value. This I say, not as having determined the indeterminable,
+computed the number and appraised the moment of their variants ;
+but because we can nowhere dispense with either of them, and not
+a page of the text can be set right without alternately preferring
+the one to the other. This difference they have, that B is the less
+correct and a the less sincere; B has more corruptions and a has
+worse interpolations. Neither from my notes nor from Bechert’s
+will you learn how profusely the text of B has been depraved by
+carelessness and ignorance and even now and then by a faint
+attempt to think. I 13 hm: for hoe, 22 circum for rerum, 44 serat for
+secat, 53 siqnari for siqmrunt, 72 propriore for propiore, 105 mentis for
+uentis, 128 unde for in idem, 148 labilis for habilis: the number of
+such errors is too great for mention, and their signiﬁcance too
+small; but in fairness to the other group it must continually be
+borne in mind that they are common in B and are not common in a.
+The vice of a is not a perpetual and headless blundering but a
+ﬁtful and ineffectual eﬁ‘ort to understand and to correct: its errors
+are far fewer than B’s, but many of them are far deeper and more
+destructive of the truth. This difference in honesty between a and
+B is displayed in such examples as the following: IV 519 incedunt
+amodo] iuoeat B, iacent G, iacet L, 623 Tamum-que minantem]
+aurum B, arcum a, 742 reqionibus] reeionibus B, rationibus a, v 64 tota
+. . . urbe] tota. . . orbe B, toto . . . orbe a, 136 suspensa ad strepitus]
+suspensas trepitus B, suspensas trepidus a, 176 ﬂammis absenlibus]
+habentibus B, habitantibus a, 235 Crater (sequente uocali)] cetera B,
+anatemque a, 329 chordae] boreae B, boreae a, 505 aequorei iuuenis]
+aequore B, aequoreae a, 732 delabsa (delabiaﬂ delibia B, deliba «.1
+
+¹ To justify without delay what I have said on p. xxii concerning Mr Bechert’s
+
+lack of judgment and his partiality for G, I here record that he edits in Iv 623
+aetam, inv 176 latitantibus, in 235 aratorque, and in 329 boreae. The perversity
+
+xxiv M. MAN ILII
+
+Here 5 has retained the simple corruptions from which critics have
+recovered the original: a has aimed at sense or grammar or metre,
+and has only succeeded in burying the truth out of sight.
+
+So much for their diversity of character ; and now, to show their
+equality in merit, I will begin at II 684 and enumerate their chief
+dissensions throughout the next 500 lines, omitting places where
+the true reading is doubtful, places where the two families are
+equidistant from the truth, and places where the two MSS of
+either family are at variance one with another.
+
+a better than 5. II 728 fulgeut a, om. B. 737 stunt a, sunt B. ,
+764 ecﬂuat] et fluat C, ut fluat B. 781 omnis a, om. B. 821 aeternis]
+alternis a, alterius B. 888 qraiae a, yraia B. 893 aduersa quae a,
+diuersa qua B. 911 iterum a, nemum B. 915 imitantem a, mutantem '
+B. 925 conubia a, coutugta B. 932 suas agttut a, sna satiqat 5.
+III 23 loquar] loquor a, liquor B. 32 casus a, om. B. 62 disposita. . .
+uugusque a, deposita . . . uaqasue B. 102 lomis est qua a, genus est 5.
+112 fundentem a, fudeutem B. 140 quaque] quaeque a, quae B. 141
+mouent ut] mouent et a, mouente B. 158 effectus a, affectas B. 175 and
+176 once in u, twice in B.
+
+5 better than a. II 702 nwmero] numeros B, numeris a. 728
+quia B, quae a. 734 dimidia B, dimidiam a. 737 suo B, om. a.
+744 uires B, om. a. 824 rata B, rara a. 830 externum . . . quiu
+B, ewtremum . . . qua a. 883 priorum B, piorwm a. 921 libratum
+B, librarum a. III 7 after 8 B, after 37 a. 15 fulmine] fnlsmina B,
+flumina a. 20 maguu B, maguo a. 22 maqni B, maguo a. 63
+euincunt B, et uincam a. 70 locarat] uoca/rat B, vocarant a. 90
+mouet B, monent a. 103 quad] qua B, quae a. 137 cmnpositi B, 1
+composita a. ,188 given by B, omitted by a. 190 memorant B,
+memorat a. 200 fulgeus B, om. 1:.
+
+Such is the equality of a and B, and such it remains throughout
+the poem. Let us hear no talk of ‘the better family of MSS,’ for
+nothing of that name exists.
+
+Within their several classes, G is on the whole superior to L,
+and M to V. True, the text of G contains many interpolations
+which appear in L as marginal corrections only and have not
+invaded MV at all; but on the other hand it frequently stands
+alone in retaining the truth where L and MV have suffered diverse
+or even identical corruptione. L also has some examples of this
+
+of the ﬁrst two readings can be seen at a glance: in order to realise the full
+folly of the others the reader must consult their context.
+
+ﬁg; &A
+
+ 
+
+ 
+
+ASTRONOMICON I xxv
+
+lonely virtue, such as I 545 quacumque L, quaecumque G, quarumque
+M, II 39 ritus pastorum] ritus pecorum L, pawn/m ritus GM metri
+gratia, III 45 det L, dat GMV, 490 coniungere L, coniwnges MV,
+coniungis L2G, Iv 400 consummant L, consumant G, consument MV, 882
+ratione ediscere] ratione discere L, rationem discere L²va, v 241 tibi]
+cibi L, sibi GMV ; but they are much fewer in L than in G. M not
+only has the great advantage over V that it preserves a genuine
+tradition of the verses I 83—11 683, but is also superior in that part
+of the poem which they possess in common. V indeed is sometimes
+the better, as at II 735 destituent eius tum] destituente iustum V,
+destituente rustum M, destituerit te iustum GL, 111 316 ue V, ue MGL,
+546 die V, dies MGL, Iv 919 cogat V, doceat MGL ; but it is oftener
+inferior both in sincerity and, so far as the published records of its
+readings allow us to judge, in accuracy. So I will now take G and
+M as the two representative MSS and compare them as I have
+already compared the two groups which they represent; they will
+be found to display in a heightened form the contrasted natures of
+their stocks, and to possess like them, with all their difference of
+character, equality of value.
+
+G excels not only the second family but also its own companion
+L in the following places among others. II 15 Iouis et G, iuuisse
+LM. 19 notauit] notarit G, roqam't LM. 168 exterius mirantur GL2,
+exterminantur LM. 473 generant G, gerant LM. 495 uertunt oculos
+in mutua] uertunt oculosque in mutua G, uertitur oculis in muta M, uertitur
+oculis immutaque L. 584 lis G uar. man. 1, leuis GLM. 692 pacata
+infestis G, pacatam insectis L, pacatam inferens MV. III 69 sorte G,
+sortem LMV. Iv 30 a captis] captis G, eapitis LMV. 221 multo GL2,
+multum LMV. 243 Vesta tuos GL2, uastat uos L, restat uos MV. 282
+illue aqilem] illue aliqem G, huc caliginem L, hm: caligim MV. 299
+‘nomen G, numen L, numem MV. 906 erectus capitis G, erectus captis
+M, ereptus captis L, erepitus captis V. 934 facit GL2, facis LM, fatis V.
+V 46 ortus G, portus L, portur MV. 545 solataque] solaque G, solaque
+in LMV metri gratia. Iv 282 and v 545 are especially noteworthy,
+as signal instances of that integrity which G so often lacks.
+
+M in its turn excels m the following passages. II 9 latites corr.
+in latices M, larwes GL. 172 hominis. ,priori M, oris. ,prioris
+GL. 190 hominis, M, arisGL. 195 uernis M, uertus L, uer twne G.
+223 gain] quid M, quod GL. 290 haec quadrata (haeeffl ta)] haec ta
+M, haee ta G, haeoea (ca in ras.) L. 375 quia M, quae GL. 474 a
+triquetrisq. orti] utrique trisorti M, utriquest sorti L, utrique sorti G.
+111 136 quamque M, quoque VGL, 432 mwnere] munero M, munera G,
+
+xxvi M. MANILII
+
+munero VL. Iv 162 metam M, uictam VGL. 740 elephwntas M,
+elephantes V, elephantmn GL. V 75 torto M, toto VGL. 138 quaerunt
+arbusta] que ratarbusta (=qaerat) M, que ruwnt arbusta GL, rnfa
+arbusta V. 327 somnam M, sonum L2, scmitum VGL. 363 limine M,
+lamine V, limite GL. 496 contemnere] contenere M, contendere VGL.
+
+Thus far of the merits of G and M; and now of their defects.
+I have said already that M’s family has many more blunders than
+G’s ; and to show the difference between G and M in point of heed
+and correctness I will take twelve lines from the text of the ﬁrst
+book, 905—916, where the reading is not disputed, and rehearse the
+errors of G and M respectively. G has no errors at all: M has
+these: 906 et man for etiam, 911 laseros . . . ari for laceros . . . artus,
+912 oum fluxit for conflua-it, 913 qnod for que, 914 aoua for actia, 916
+alta for alea. This, or worse than this, is the aspect of M throughout
+the poem z hardly a paragraph wears the likeness of sense or even
+of Latin. But hand in hand with this ﬂoundering ignorance goes
+the kindred virtue of honesty. In all the Ms I have noticed only
+three downright interpolations, I 331 de inserted for metreis sake
+after ophianus had been changed to Orphea, 850 uiam for procul to
+suit the corruption cant/rum, IV 776 possidet for condidit to suit the
+corruption orbem: here and there are found other alterations which
+bewray a vague and helpless impulse to correct the text, such as
+I 353 de toto for deltoton, II 233 de qenere for deqere3 but even these
+are few. We have seen the difference in accuracy between G and
+M: now see the opposite difference in sincerity.
+
+II 8 sq. Manilius wrote ‘cuiusque ex ore prcffusos | omnis pos-
+teritas latices in carmina duxit’: M alone has preserved latices or
+latites, and has made the careless blunder of writing prcffasns ; L and
+most MSS give profusos . . . . Zanoes; G corrects the gender, prffnsas
+. . . lances. 11 138 sq. Manilius wrote ‘solus uacuo ueluti uectatus
+in orbe | liber aqam currus’ (‘ueluti’ belongs to ‘agam,’ not to
+‘uectatus’): LM have ubera tam 3 but L2 offers the ridiculous con-
+jecture nmbrato carru, and this appears in the text of G. II 195
+uernis M rightly, nerias L, whence L2G devise uer tuno. II 393 ferit
+Manilius: feoit L, an honest error, ferunt M, another; facit G, a.
+metrical correction of fecit. 11 534 sq. ‘ab illis I nascentis Librae
+superari posse triyono’ LM: because the ace. plur. ‘nascentis’ was
+mistaken for a gen. sing, the conjecture trigonum appears in L2 and
+G. II 731 pariterque sequentia ducunt Maniliusz· pariterque sententia
+amount LMV ; L2 strikes out the qne for metre; G corrects metre
+and grammar both with pariter sententia daott. II 870 porta (mstvy)
+
+ASTRONOMICON I xxvii
+
+Manilius, orta mv with loss of the initial, ora L2G. 111 7 coniuratos
+HV rightly: L has corrupted tiaratos into curatos; L2 and G ﬁll up
+the verse with ad ou/ratos. III 33 siqwmmque Manilius: si was lost
+in the margin and quorumque appeared 1n the archetype as qumwnque,
+which is faithfully preserved by LMV; L2 and G have the metrical
+correction quorum quaeque. 111 332 limite recto Manilius, limiter octo
+LMV, limitis octo G. III 634‘ tumescit in (mm ’Manilius, awra LEV,
+auras L2G. III 635 status MV, satus L, situs L2G. 111 657 siqui
+Manilius, siquis mv, seqnis G. IV 104 in portenti Manilius, important
+mv, importans G. IV 127 uotis M, uatis L, mztis G. IV 200 bona
+sunt Manilius, bonas ut Lm, bonas in V, bonus ut G metri gratia.
+IV 252 sq. fagantem fn'qo‘ra Manilius, fuqacem sriqora LMV, fugacem
+, , sriqore L2G. IV 580 ‘cum Babyloniacas snmnmersa profugit in undas’
+Manilius, and so M: V has the same letters but divides them ill,
+babilonia cassum mersa 3 L further omits one, babilonia casum mersa ;
+then L2 strikes out mersa and writes babilonias casum, and G has
+babilonius casus with mersa omitted, ‘cum Babylonias casus profugit
+in undas.’ IV 588 nascentem lapsumque Manilius: Lmv have ipsum-
+que, and so has G, but G corrects the metre with nascentemque. IV
+609 ‘Italiam Hadriaco mutatum nomina ponto’ Manilius: adriam
+conmutatus nomine ponto V, hadriam comitatus nomine ponto ML, atque
+admm comitatus nomine pontum G. IV 659 alpinas MV, albinus L,
+albanas L2G. IV 677 ‘ad Tanaim Scythicis dirimentem fluctibus
+orbes ' Manilius: at (ad V) tantam scythicas . . . orbes LMV, ac tantwm
+scythicas . . . orbes L2, and lastly ac tantum scythicas . . . urbes G. IV
+901 in inspectus Manilius, inspectus Lmv, et inspectus L2G. V 12 sq.
+‘hinc uocat Orion, magni pars maxima caeli, I et ratis heroum,
+quae nunc quoque nauigat astris' MV lightly: L and G both omit
+‘magni . . . heroum,’ but L retains the true reading quae, G writes
+qui to suit ‘Orion.’ V 40 quisquis erit terris MV: L has quisque 3 G
+mends the metre of this with quisque em't in terris„ V 49 Persida
+Manilius, per sidera (that is persida) LMV: L2 and G throw away
+the unmetrical per and keep only sidera. v 57 decuma lateris
+Manilius: the archetype had desumalateris, which becomes deus mala
+terris in HV and I/suma lateris in L: L2 and G make it into su/mma
+lateris. v 97 de sidere MV, de fidere L, diffidere L2G. v 137 tngem'ta
+est Manilius, inqeniest MV, inqeniem L, inqenium L2G. v 263 ‘ecﬁn-
+getque suum sidus similesque in mutua pressos ’ MV, which as Jacob
+saw is the remains of two verses ; similesque sidus L: L2 strikes out
+sidus for the metre’s sake, and G omits both sidus and que. v 414
+ue fauet Manilius, fauet MVL, fauit G to mend the verse. V 592
+
+xxviii M. MAN ILII
+
+‘subuolat alis’ MVL: al- was absorbed by -at, and the remnant -is
+has been spun out to undis by G. v 596 a qurqite frontem Manilius :
+a qurqite sonte V, a yurqit effimte M, asurqit a sonte L, whence G makes
+assurqit a sonte. v 599 ‘laxumque per aethera ’ MV, per L, per et G.
+v 691 quo perit Manilius, quod erit MVL, quodque erit L2G.
+
+No such catalogue of frauds can be compiled from L or M or V.
+Of all the four MSS, G, the most correct, is also the most interpol-
+ated ; it has the fewest faults, but the worst.
+
+Hitherto I have been citing passages where the tratﬁtion of the
+archetype is preserved, or better preserved, in one MS or group of MSS
+and corrupted, or worse corrupted, in another. But there are also
+places where both families have altered the reading of their common
+source, and it is to be restored by a comparison of their divergent
+errors. Here too they are equal, and each makes good the delin-
+quencies of its fellow. 11 46 tartaron atra Manilius, tartara uatra the
+archetype, tartara nacta M, tartara uatram G (natum L). 171 ut Capri-
+cornus et intentum qui] ut quae caym'cornus intentum qui M, ut capricornus
+qui intentum L, ut capricornus et hic qui intentum G. 393 ferit] fecit L
+(facit G), ferunt M. III 283 geh'das ueryeutia] qelida uerqerttia MV,
+,caudasque riqeutia GL. IV 369 quaerendum aliud Manilius, quaerenda
+mali ud archetype, quaerenda mali G, quaerendo mali L, quaerendo
+mala quid MV. 659 Alpinas cum contudit] alpinas (albiuas L) con-
+tundit curm MVL, albarras curn contudit G. 702 eat] erat G, et LMV.
+V 366 nitidis olor euolat alis] nitidis olore uolantis GL, uttibi solore
+uolatalis MV. 389 angaileaens] arcitenens GL, et qui tenens MV. 425
+diducet] deducet GL, dicutet MV. 475 doctim· urbe] doctior orbe MVL,
+doctor urbe G.
+
+Some verses where the MSS have thus wandered away to the
+right and left of their original are still in need of correction.
+V 219 is given with these variations:
+
+haec ubi se ponto per primas extulit oras,
+MV nascentem quam uec pelagi restrinxerit unda,
+L nascentem quem pelagi restriuzerit unda, }
+G nascentem si quem pelagi restinxerit unda,
+
+effrenos animos uiolentaque pectora ﬁnget.
+
+Take the quam uec of MV (corrupted in L and worse corrupted
+in G) and restinxerit of G (corrupted in all the other MSS) :
+
+nascentem quam nec pelagi restinxerit unda..
+
+ASTRONOMIGON I xxix
+
+Not even the ﬂood of ocean can quench the dogstar as it rises over
+the rim of the sea.
+
+In II 713 Manilius begins to tell us how the dodecatemories are
+distributed among the twelve signs of the zodiac :
+
+M nunc quod sit cuiusque canam, quoue ordine constet
+
+GV nunc quid sit cuiusque canam, quoue ordine constet
+
+L nunc quid sit caiusque canam, quoue ordine constent
+Voss. 1 nunc quid sint cuiusve canam, quoue ordine constent.
+
+Take the qipd of M, the sint of Voss. 1, the cuiusque of GLMV, the
+amstent of L Voss. 1 :
+
+nunc quod sint cuiusque canam, quoue ordine constent.
+
+That is ‘canam quot dodecatemoria cuiusque sint sideris’: this he
+proceeds to do in 715—21. Bentley had discovered this, except
+that not possessing M he wrote quae instead of quod.
+
+But the most difﬁcult and important passage which yet awaits
+correction by this method is IV 7 76, where Italy is apportioned to
+the sway of the constellation Libra and reasons are added to show
+the propriety of this arrangement.
+
+Hesperiam sua Libra tenet, qua condita Roma
+orbis et imperio retinet discrimina rerum
+lancibus et positis gentes tollitque premitque,
+qua genitus Caesarque meus ‘nunc possidet orbem
+qua genitus Caesarque meus nunc condidit orbem
+qua genitus meus nunc condidit orbem
+
+qua genitus cumfratre Remus ham: condidit urbem
+et propriis frenat pendentem nutibus orbem.
+
+776
+
+¢r<E
+
+The ‘ qua condita Roma ’ of 773 is plain enough: Cic. de diu. 11 98
+‘L. Tarutius Firmanus . . . Romam, cum in Iugo (i.e. Libra) esset
+luna, natam esse dicebat,’ Solin. I 18 ‘Romulus . . . fundamenta
+iecit . . . sole in Tauro, luna in Libra constitutis.’ But what person
+is signiﬁed as ‘Libra genitus’ in 776'! To begin at the end, the
+orbem of 777 shows that G’s urbem rather than the orbem of the
+other MSS is the true reading in the verse above. It further
+appears that M’s possidet is a mere interpolation prompted by the
+false reading orbem, and that the condidit of GLV is the original.
+Next, the mmo of mvl, is metrically more probable than the ham:
+of G, because Manilius, as I have remarked at I 10, does not seem
+to lengthen short ﬁnal syllables except in two verses of the ﬁrst
+book; for in N 280 the corruption of the text is evident. Then,
+
+xxx M. MANILII
+
+from the present tense of frenat in 777, it follows that G's cum
+fratre Remus is a false reading; though I will not conceal that
+Romulus, if he was born at sunrise on the 21st day of the month
+Thoth (Sept. 18th) in the 8th century before Christ, as Plutarch
+uit. Rom. 12 8 relates that Tarutius pretended, had Libra for
+his horoscope. The Caesarque meus of MV is not itself good sense
+or grammar, but it is near the truth : Manilius wrote
+
+qua genitus Caesar melius nunc condidit urbem.
+
+With this compliment to the reigning sovereign compare Suet.
+Aug. 7 ‘quibusdam censentibus Romulum appellari oportere, quasi
+et ipsum conditorem urbis,' Galig. 16 ‘decretum ut dies, quo
+cepisset imperium, Parilia uocaretur, uelut argumentum rursus
+conditae urbis,’ Claud. in Eutrop. II 82 sq. ‘tertius urbis}
+conditor (hoc Byzas Constantinusque uidebunt).' Which of the
+Caesars had Libra for his natal star and was curbing the world
+when Manilius wrote these verses I will consider on p. lxx ; but
+here I am only concerned with the history of the text. li and u
+are barely distinguishable (v 36 celi for ceu), and menus could come
+to nothing but meus: the archetype read
+
+qua genitus caesar meus nunc condidit orbem.
+
+B rendered this metrical by inserting que: in a the word caesar or
+cesar was obscurely written, so that L omits it as illegible, while G
+makes -rmeus into remus and from the dim remains of caesa- elicits
+
+a frat [re].
+
+IV
+
+Some ancient authors have descended to modern times in one MS
+only, or in a few MSS derived immediately or with little interval
+from one. Such are Lucretius, Catullus, Valerius Flaccus, and
+Statius in his siluae. Others there are whose text, though in the
+main reposing on a single copy, can be corrected here and there
+from others, inferior indeed, but still independent and indispensable.
+Such are Juvenal, Ovid in his heroides, Seneca in his tragedies, and
+Statius in his Thebais and Achilleis. There is a third class whose
+text comes down from a remote original through separate channels,
+and is preserved by MSS of unlike character but like ﬁdelity, each
+
+ 
+
+ 
+
+ASTRONOMIOON I xxxi
+
+serving in its turn to correct the faults of others. Such are Persius,
+Lucan, Martial, and Manilius.
+
+If I had no judgment, and knew it, and were nevertheless
+immutably resolved to edit a classic, I would single out my victim
+from the ﬁrst of these three classes: that would be best for the
+victim and best for me. Authors surviving in a solitary MS are
+by far the easiest to edit, because their editor is relieved from one
+of the most exacting offices of criticism, from the balancing of
+evidence and the choice of variants. They are the easiest, and for
+a fool they are the safest. One ﬁeld at least for the display of folly
+is denied him: others are open, and in defending, correcting, and
+explaining the written text he may yet aspire to make a scarecrow
+of the author and a byword of himself; but with no variants to
+afford him scope for choice and judgment he cannot exhibit his
+impotence to judge and choose.
+
+But the worst of having no judgment is that one never misses it,
+and buoyantly embarks without it upon enterprises in which it is
+not so much a convenience as a necessity. Hence incompetent
+
+· editors are not found ﬂocking to texts like Valerius Flaccus’ and
+
+leaving texts like Manilius’ alone. They essay to edit the latter no
+less promptly than the former; and then comes the pinch. They
+ﬁnd themselves unexpectedly committed to a business which
+demands not only the possession, but the constant exercise, of
+intellectual faculties. An editor of no judgment, perpetually con-
+fronted with a couple of M88 to choose from, cannot but feel in
+every ﬁbre of his being that he is a donkey between two bundles of
+hay. What shall he do now? Leave criticism to critics, you may say,
+and betake himself to any honest trade for which he is less unﬁt.
+But he prefers a more ﬂattering solution: he confusedly imagines
+that if one bundle of hay is removed he will cease to be a donkey.
+
+So he removes it. Are the two MSS equal, and do they
+bewilder him with their rival merit and exact from him at every
+other moment the novel and distressing affort of using his brains 3
+Then he pretends that they are not equal: he calls one of them
+‘the best MS,’ and to this he resigns the editorial functions which
+he is himself unable to discharge. He adopts its readings when
+they are better than its fellow’s, adopts them when they are no
+better, adopts them when they are worse: only when they are
+impossible, or rather when he perceives their impossibility, is he
+dislodged from his refuge and driven by stress of weather to the
+other port.
+
+xxxii M. MAN ILII
+
+This method answers the purpose for which it was devised: it
+saves lazy editors from working and stupid editors from thinking.
+But somebody has to pay for these luxuries, and_ that somebody is
+the author; since it must follow, as the night the day, that this
+method should falsify his text. Suppose, if you will, that the
+editor’s ‘best 118’ is in .truth the best: his way of using it is none
+the less ridiculous. To believe that Wherever a best MS gives
+possible readings it gives true readings, and that only where it
+gives impossible readings does it give false readings, is to believe
+that an incompetent editor is the darling of Providence, which has
+given its angels charge over him lest at any time his sloth and folly
+should produce their natural results and incur their appropriate
+penalty. Chance and the common course of nature will not bring
+it to pass that the readings of a MS are right wherever they are
+possible and impossible wherever they are wrong: that needs
+divine intervention; and when one considers the history of man
+and the spectacle of the universe I hope one may say without
+impiety that divine intervention might have been better employed
+elsewhere. How the world is managed, and why it was created,
+I cannot tell ; but it is no feather-bed for the repose of sluggards.
+
+Apart from its damage to the author, it might perhaps be thought
+that this way of editing would bring open scorn upon the editors,
+
+‘ and that the whole reading public would rise up and tax them, as I
+
+tax them now, with ignorance of their trade and dereliction of their
+duty. But the public is soon disarmed. (WW
+iny parrots, and it is easy to disguise folly bv giving it a
+QQ Those who live and move and have their being in the
+world of words and not of things, and employ language less as a
+vehicle than as a substitute for thought, are readily duped by the
+assertion that this stolid adherence to a favourite us, instead of
+being, as it is, a private and personal necessity imposed on certain
+editors by their congenital defects, is a principle ; and that its name
+is ‘scientiﬁc criticism’ or ‘critieal method.’ This imposture is
+helped by the fact that there really are such things as scientiﬁc
+methods and principles of criticism, and that the 19th century
+was specially distinguished by a special application of these methods ‘
+and principles which is easily confused, by parrots, with the
+unprincipled and unmethodical practice now in question. Till 1800
+and later no attempt was made by scholars to determine the
+genealogy and afﬁliation of mss: science and method, applied to
+this end by the generation of Bekker and Lachmann, Madvig and
+
+ASTRONOMICON I xxxiii
+
+Cobet, have cast hundreds of MSS, once deemed authorities, on the
+dust—heap, have narrowed the circle of witnesses by excluding those
+who merely repeat what they have heard from others, and have
+proved that the text of certain authors reposes on a single document
+from which all other extant MSS are copied. Hence it is no hard
+task to diffuse among parrots the notion that an editor who assigns
+preponderant authority to any single MS is following the principles
+of critical science, since the question whether the MS really
+possesses that authority is one which does not suggest itself to the
+creature of which Pliny has written ‘ capiti eius duritia eadem quae
+rostro.’ Nay more: the public is predisposed in favour of the
+falsehood, and has reasons for wishing to believe it true. Tell the
+average man that inert adhesion to one authority is methodical
+criticism, and you tell him good news: I too, thinks he, have the
+makings of a methodical critic about me. ‘Man kann nur etwas
+aussprechen,’ said Goethe, ‘ was dem Eigendiinkel und der Bequem-
+lichkeit schmeichelt, um eines grossen Anhanges in der mittel-
+massigen Menge gewiss zu sein.’
+
+But still there is a hitch. Competent editors exist; and side
+by side with those who have embraced ‘the principles of criticism,’
+there are those who follow the practice of critics: who possess
+intellects, and employ them on their work. Consequently their
+work is better done, and the contrast is mortifying. This is not
+as it should be. As the wise man dieth, so dieth the fool: why
+then should we allow them to edit the classics differently? If
+nature, with ﬂagitious partiality, has given judgment and industry
+to some men and left other men without them, it is our evident
+duty to amend her blind caprice; and those who are able and
+willing to think must be deprived of their unfair advantage by
+stringent prohibitions. In Association football you must not use
+your hands, and similarly in textual criticism you must not use
+your brains. Since we cannot make fools behave like wise men,
+we will insist that wise men should behave like fools: by these
+means only can we redress the injustice of nature and anticipate
+the equality of the grave.
+
+To this end, not only has the simple process of opening one’s
+mouth and shutting one’s eyes been digniﬁed by the title of ‘eine
+strong wissenschaftliche Methode,’ but rational criticism has been
+branded with a term of formal reprobation. ‘Butter and honey
+shall he eat,’ says Isaiah of Immanuel, ‘that he may know to
+refuse the evil and choose the good.’ This is a very bad system of
+
+c
+
+1/
+
+xxxiv M. MAN ILII
+
+education: to refuse the evil and choose the good is ‘der reinste
+Eclecticismus.’
+
+By this use of tickets it is rendered possible, in a world where
+names are mistaken for things, not only to be thoughtless and idle
+without discredit, but even to be vain of your vices and to reprove
+your neighbour for his lack of them. It is rendered possible to
+pamper self-complacency while indulging laziness; and the
+‘scientiﬁc critic,’ unlike the rest of mankind, contrives to enjoy
+in combination the usually incompatible luxuries of shirking his
+work and despising his superiors.
+
+Thus are good MSS converted into implements of destruction.
+In books like Manilius and Lucan, preserved in various copies of
+equal merit, the editor cloaks his frailty by feigning that their
+merit is not equal: in books like Juvenal and Ovid’s heroides,
+where one MS far excels the rest, he feigns that it excels them
+further, and tries hard to treat it not merely as the best but as
+the sole authority. The poet is brought low that the MS may be
+exalted.
+
+Ouid. her. XIV 19 sq. Hypermestra to Lynceus:
+
+quam tu caede putes fungi potuisse mariti,
+scribere de facta non sibi caede timet.
+
+Problem. T0 inﬂict upon these verses the greatest possible
+injury by the least possible alteration.
+
+Solution. The cod. Puteaneus (which has the errors temam for
+temeratae in verse 17, dexterae for datrae in 18, and noctis . . . lucis
+for lucis . . . rwctis in 22) has here the error marito for mariti,
+ablative to suit the nearer ‘fungi ’ instead of the remoter ‘ caede ’:
+adopt this error (alas that we must forgo the other three) and
+punctuate as follows,
+
+quam tu caede putes fungi potuisse, marito
+scribere de facta non sibi caede timet.
+
+Thus we shall enfeeble the ﬁrst clause by subtracting mariti,
+ridiculously enfeeble the second clause by adding marito, and in
+order to deal these two blows we shall only change one letter.
+Q.E.F. When Mr R. Ehwald, whose exploit this is, proceeds ‘der
+antithetische Parallelismus der Gedanken im Hexameter und
+Pentameter wird nur gewahrt durch das mrito des Put: so
+entspricht sich tu und marito: I do not regard his words as a
+
+piece of impudence; WW
+Q
+
+/
+
+s
+
+ 
+
+ASTRONOMICON I xxxv
+
+In Juvenal the Pithoeanus is misused in the same way. This
+is a MS in which aqri at III 141 sq. ‘quot possidet agri | iugera’
+has been altered into aqros and iuyera has been omitted ; in which
+the gloss nudo has supplanted mero at VI 159; in which cohibe at
+VI 347, having lost its sense by the emission and misplacement
+now detected by the Oxford MS, has been changed to prohibe and
+so accommodated to the altered circumstances; and which is full
+of faults, not grave like these, but yet indisputable, from which,
+as from these, the other MSS are all or most of them exempt.
+Nevertheless when at xv 93 sq. the others offer
+
+Vascones ............ alimentis talibus usi
+produxere animas
+
+and the Pithoeanus olim, the editors follow it headlong, and never
+stop to ask whether olim or usi was the likelier to disappear in -us
+and make work for an interpolator. And headlong they follow it
+again at XI 91 ; and where the other MSS present
+
+cum tremerent autem Fabios durumque Catonem
+et Scauros et Fabricios, rigidique seueros
+censoris mores etiam collega timeret,
+
+they print with P
+
+et Scauros et Fabricium, postremo seueros . . .
+
+Fabricium rightly, for Fabricios is a mere corruption due to Scams;
+but this uncouth postremo (a word moreover which is never used by
+Juvenal or Martial or Persius or Horace, and which hardly exists
+in Latin poetry outside Lucretius) is nothing but a patch to mend
+the metre and grammar of
+
+et Scauros et Fabriciumque seueros
+
+after ﬁgidi had been swallowed up by -ricium,
+
+Again, when neither P nor the others have preserved the truth,
+and it becomes our business to discover it, Mr Buecheler and his
+followers ignore the fact, though they do not deny it, that the
+inferior family is independent of P, and refuse to avail themselves
+of the help it proffers ; their aim being not so much to recover the
+original as to maintain what they fondly deem the scientiﬁc attitude
+of hopping on one leg instead of walking on two. J uvenal’s picture,
+in XIV 265—9, of the miseries incurred by avarice in the pursuit of
+wealth, appears thus in P:
+
+xxxvi M. MANILII
+
+an magis oblectant animum iactata petauro
+corpora quique solent rectum descendere funem,
+quam tu, Corycia semper qui puppe moraris
+atque habitas, coro semper tollendus et austro,
+perditus ac uilis sacci mercator olentis?
+
+‘uilis mercator’ in Latin means ‘mercator paruo pretio parabilis.’
+Even if it could signify ‘paruo pretio mercans,’ it would be false,
+for Corycian saffron was the best (Plin. n.h. XXI 31 ‘ prima nobilitas
+Cilicio et ibi in Coryco monte'), and foolish, for such a word has
+nothing in common with ‘perditus.’ So what now? To Mr
+Mayor’s edition one resorts for other things, but not for help in
+difficulties 3 Mr Friedlaender, who usually writes notes where notes
+are wanted, is silent here; and neither the one nor the other
+mentions any variant in the MSS nor any sign of a variant in the
+scholia. Yet the scholiast who wrote ‘ ex sententia tali : tu foetide ’
+had no such word as uilis in his text, and all the six MSS collated
+by Mr Hosius as representatives of the other class give a siculis in
+the place of ac uilis. What the scholiast read and tried to interpret,
+the common source of acuitis and asic-ulis, was ansulis:
+
+perditus ac similis sacci mercator olentis.
+
+But his interpretation is wrong: ‘olentis’ is of course not ‘fetidi ’
+but ‘fragrantis,’ and ‘ similis ’ has nothing to do with it. ‘similis ’
+means ‘concolor’: ‘perii ! ' cries the merchant, and turns as yellow
+as his own saffron with the hue of seasickness (Hor. epod. 10 16
+‘pallor luteus,’ Verg. buc. IV 44 ‘croceo luto,’ ciris 317 ‘Corycio
+luto ').
+
+At XI 1 48 the reading of P and the punctuation of Mr Buecheler
+are the following :
+
+plebeios calices et paucis assibus emptos
+
+porriget incultus puer atque a frigore tutus 3
+
+non Phryx aut Lycius, non a mangone petitus
+
+quisquam erit: in magno cum posces, posce Latine.
+‘in magno’ is supposed to mean ‘in magno poculo’: ‘when you
+call for drink in a large cup, call in Latin’; ‘in paruo, Graece’ I
+presume, and possibly ‘in modico, Osce’: such things is Juvenal
+made to write in order that Juvenal’s editors may not be forced to
+throw their crutch away. The other class gives et for in,
+
+non a mangone petitus
+quisquam erit, et magno: cum posces, posce Latine.
+
+ASTRONOMICON I xxxvii
+
+‘magno’ then means ‚ ‘magno pretio’ and is constructed with
+‘petitus.’ This yields good sense except that the conjunction ‘et,’
+in the negative sentence, is both intrusive and inappropriate: no
+particle is wanted, and the only particle which could aptly be
+inserted is ‘nedum.’ It must be full twelve years ago that by
+considering this reading and the scholiast’s comment ‘quales uendunt
+care manciparii’ I was led to the correction
+
+non a mangone petitus
+qui steterit magno: cum posces, posce Latino.
+
+quisleten't was mistaken for quis et erit and then altered to quis erit et,
+as in Ouid. Ib. 193 half the MSS have hic et erit and half hio m't et
+and in Prop. Iv 11 44 the quin et erat of the better MSS becomes
+quin erat et in the worse; then quis was expanded for metre’s sake
+to quisquam. Last year I found in cod. Burn. 192 of the British
+Museum an earlier stage of the corruption: it has quis m‘t et mamm}
+In books like Juvenal, where the ‘best MS ’ is truly and by far
+the best, such partiality is more discreditable to the editor than
+injurious to the author: the case is worse where the ‘best MS’ is
+only in parts the best, or only by a little. The Marcianus of Ovid’s
+tristia is a Ms whose worth consists in its faithful retention of many
+readings which all other MSS have falsiﬁed; but it is grossly and
+profusely corrupted by ignorance and carelessness, and the general
+fabric of its text is worse than that of other MSS such as the
+Guelferbytanus. At I 5 15 sq. the other MSS give rightly and
+excellently
+¹ This MS is of the 15th century and full of blunders, but it has a few
+readings of singular excellence. In the famous passage VIII 148 where
+sufflamine mulio consul has been recovered from the florilegium Sangallense,
+and other Mss have the interpolations multo sufflamim consul or consul suffla-
+mim multo, Burn. 192 has alone retained the early and unmetrical form of the
+corruption, sub flamine mullo consul, from which the transpositions took their
+rise. Upon vn 22 sq„ where P has ‘si qua alinnde putas rerum spectanda
+tuarum | praesidia’ without sense, the other use expectanda, and the scholiast
+‘ si aliunde spera-ss I published in 1889 the conjecture speranda (see Ouid. met.
+x 345 sperare, spectare, expectare, trist. 11 145 sperare, spectare, Stat. Ach. 11
+269 sperabunt, spectabunt, Mart. lib. spect. 22 3 desperabantur, despectabantw,
+Claud. rapt. Pros. I 288 sperantes, spectantes) : Burn. 192 has ezperanda, that
+
+is aspemnda. The verse XI 99 ‘tales ergo cibi, qualis domus atque supellex'
+is so inept that Markland and Heinrich and Jahn have judged it spurious:
+
+curt
+Burn. 192 has uiri cibi,'whieh means that its exemplar had uiri: if uiri is
+the true reading the verse becomes apposite and defensible. At 111 185,
+VI 320, xx 117 it indicates the old spellings Veiiento and Saufeiia under the
+disguises of umento, lanfella, and laufolla.
+
+xxxviii M. MANILII
+
+di tibi sint faciles et opis nullius egentem
+fortunam praestent dissimilemque meae.
+
+The Marcianus has two disgraceful blunders,
+
+di tibi sint faciles sisui nullius egentem
+fortunam praestent dique deaeque meae.
+
+This sisui may be a remnant of -ssimilem- written above —que deae-
+as a correction; or at may have been lost in -es and opis then
+altered to usus (Manil. IV 397 suis usu per M for suis opibus super
+and Prop. IV 2 64 usus DF for opus are somewhat like). dique
+deaeque Mr Ehwald is obliged to discard ; but on sisui he' builds the
+conjecture, too unOvidian for anyone but an editor of Ovid, ‘tibi
+di nullius egentem ’ : and after all what likeness has tibi di to sisui?
+
+At I 10 23 ‘nam mihi Bistonios placuit pede carpere campos’
+the Marcianus carelessly writes mihi for pede, and Mr Ehwald does
+not follow it: at I 8 37 sq.
+
+non ego te genitum placida reor urbe Quirini,
+urbe meo quae iam non adeunda pede est
+
+(see III 1 70 ‘pedibus non adeunda meis ’) the Marcianus again
+substitutes mihi, whereupon Mr Ehwald must needs carry the
+corruption further with ‘urbe mea, quae iam non adeunda mihi?
+By such tactless preference the Marcianus of Ovid, like the
+Neapolitanus of Propertius and the Blandinianus uetustissimus of
+Horace, is made to do the author more harm than good; and a
+better MS still, the Puteaneus of Statius, in the hands of Mr
+Kohlmann, has darkened even the annals of the Labdacidae with a
+shade of adventitious horror. Theban incest and Theban parricide
+have lost part of their direness by familiarity: Theban false
+‘ties are new.¹
+
+  
+
+But it is in books where there is no best M8 at all, and the
+editor, in order to escape the duty of editing, is compelled to feign
+one, that the worst mischief ensues; and those authors whose text
+the kindness of fortune has transmitted from a remote original
+
+¹ Mr. Klotz's Achilleis has just come into my hands. Turning over the
+ﬁrst few pages I ﬁnd that he makes I 30 into a fatuons parenthesis in order to
+read illa with P instead of illa ubi with the other uss ; that at 75 he like Mr
+Kohlmann destroys the sense, which requires unum, by adopting P's unam, a
+eorrupt accommodation to the gender of me ; and that at 73 he like Mr Kohl-
+mann reads with P haul permitto. Editors who do not know that haut with
+the imperative is a solecism can easily adhere to a ‘best us] or a worst us
+either, in many places where better scholare must abandon it.
+
+ASTRONOMICON I xxxix s
+
+through separate channels of equal purity are now deprived of their
+advantage and mechanicalLLconsigned to deration for fea-Lg-
+sffsggmn Wm should be required to work: butchered to make a
+German holiday, or an English one. Persius indeed, who" is the most
+striking example of such transmission,—both P on the one hand
+and AB on the other are exceedingly corrupt, yet each family so
+repairs the errors of the other that few Latin writers have a. sounder
+text—has suffered less than might have been expected from the
+tendency of his editors to lean heavily, some on one prop, others on
+the other. Lucan is not so lucky. He also descends to us by two
+streams of tradition, the one represented by the Vossianus primus,
+the other by several MSS now called the Pauline and accounted the
+better witnesses, among which the Montepessulanus is thought the
+best. Therefore Mr Hosius at I 322 sq. edits ‘atque ausum (M,
+auso V) medias perrumpere milite leges [ Pompeiana reum clauserunt
+signa Milonem,’ as if it were Milo and not Pompey who did military
+violence to the laws, and as if Milo ever had a single soldier at his _
+disposal; and at I 531 he edits ‘et uarias ignis tenso (M, denso
+V) dedit aere formas’ and defends the nonsense ‘tenso aere’ by
+citing, of all things in the world, ‘extenuatis nubibus,’ though
+Seneca nat. quaest. VII 21 1 has ‘ cometas . . . denso aere creari’
+and Aristotle meteor. I 4 ﬁn. roth-<nv ai'ﬂov . . . 7‘7 rofi dépoa'
+(rv‘yxpwopévov rﬁéw- and Diogenes Laertius VII 152 Kan-611w- re
+Kai vrorywvc‘au· Kai AapvraSiw 1rvpd. u'mu &spem-(Bra wdxovu· depon- eio-
+-rbv aiOepuSSr] 1-61rov aivevexaévroo- and the scholiasta at Arat. 1091
+dpxw‘yv yevéa-euia' «ﬁne-w uffo-xant rob& nostrin-ao· drav ‘n ‘rofi dipon-
+waxvnepéo‘repov sic- Tbv ai0€pa G’KQMBEV ‘171a -rofi alOAEpoo· 8517] e'v8eO2rJ. _/
+But no more dismal example of an author corrupted through
+and through by the very means which fortune has ordained for his
+preservation and restitution is anywhere to be found than the two
+last editions of Manilius. To elude what Byron calls ‘the blight
+of life—the demon Thought,’ Messrs Jacob and Bechert have
+committed themselves respectively to the Vossianus and the
+Gemblacensis, the devil and the deep sea. Having small literary
+culture they are not revolted by illiteracy, having slight knowledge
+of grammar they are not revolted by solecism, having no sequence
+of ideas they are not revolted by incoherency, having nebulous
+thoughts they are not revolted by nonsense: on the contrary the
+illiterate and ungrammatical and inconsecutive and meaningless
+things with which both MSS abound are supposed by their respective
+votaries to be ‘Manilian,’ and each believes himself a connoisseur
+
+‚xl M. MANILII
+
+of the poet’s peculiar style. Strange to say, their conception of
+that style is identical ; and the two texts, though based on opposite
+authorities and diverging in innumerable details, have in their
+general aspect a conspicuous and frightful similarity. The Manilian
+peculiarities of V are just like the Manilian peculiarities of G, for
+the simple reason that they are neither Manilian nor peculiar.
+They are ordinary corruptions ; and Jacob can see that this is so in
+G, and Bechert can see it in V. And after all, though they may
+mount their hobbies, they cannot stick in the saddle. Again and
+again their favourites offer readings which they are forced to abandon,
+and to accept the readings of the rival MSS; but these lessons they
+hasten to forget, and are no wiser next time.
+
+V .
+
+Thus far of the places where our MSS dissent, and the reading
+of their archetype is to be regained ‘by choice and comparison.
+Where they agree, there the text of the archetype is before us,
+an archetype, like themselves, corrupt and interpolated; and now
+begins the business of correcting this. But ﬁrst, in every place
+where the tradition is thus clearly ascertained, comes the question
+whether this be not itself the truth; and it is no simple question.
+The Romans are foreigners and write to please themselves, not
+us; Latin poets compose Latin poetry, which is very unlike Eng-
+lish or German poetry; and each writer has his own peculiarities
+and the peculiarities of his generation and his school, which must
+be learnt by observation and cannot be divined by taste. In
+Manilius, an author both corrupt and difﬁcult, who since the
+revival of learning has had few competent students, it is no cause
+for wonder that even after Scaliger and Bentley there remains as
+much to explain as to emend, and that these toiling giants, amidst
+loads of rubbish, have carted away some fragments of the fabric. A
+properly informed and properly attentive reader will ﬁnd that
+many verses hastily altered by some editors and absurdly defended
+by others can be made to yield a just sense without either changing
+the text or inventing a new Latinity ; and I think that I have
+often vindicated the MSS by a. reasonable explanation in passages
+where my betters had assailed them.
+
+But those who can understand what Scaliger and Bentley and
+
+ASTRONOMICON I xli /
+
+Gronouius and Heinsius and Lachmann could not understand are
+now so numerous, and their daily exploits in hermeneutics are so
+repulsive and deterrent, that I have avoided nothing so anxiously
+as this particular mode of being ridiculous ; and it is likely enough
+that my dread of seeming to march with the times has led me here
+and there to err on the side of caution, and timidly to alter what
+I might without rashness have defended. I have reserved for this
+place the discussion of a passage where I hesitated and hesitate
+still. I 336 is printed thus by those editors who neither expel nor
+alter it,
+semper erit paribus bellum, quia uiribus aequant;
+
+and this jargon they pretend to explain by saying that ‘aequant’
+means ‘acquantum’ Otherwise punctuated the verse will become
+Latin, though unusual Latin, and sense :
+
+semper erit, paribus bellum quia uiribus aequant.
+
+That is ‘semper erit bellum, quia paribus id uiribus aequant,’ their
+warfare will last for ever, because they wage it on level terms with
+equal powers. The construction is that of Plant. mil. 803 sq. ‘non
+potuit reperire, si ipsi Soli quaerendas dares, | lepidiores’ and Lucr.
+III 836 sq. ‘in dubioque suere, utrorum ad regna cadendum | omnibus
+hwnumis esset terraque marique.’ But I call to mind no parallel
+in the polished ‘age (for in passages like Mart. III 50 8 ‘putidus est,
+totiens si mihi ponis aprum’ the presence of an adjective in the
+right case makes all the difference) ; and the sentence is harshly
+and abruptly added to the ﬂowing passage which precedes it.
+Therefore I prefer on the whole the conjecture which I have placed
+in the text ; but perhaps I am over-scrupulous.
+
+The art of explaining corrupt passages instead of correcting
+them is imagined by those who now practise it to be something
+new, a discovery of these last twenty years. But man is not thus
+tardy in devising follies. Wakeﬁeld’s Lucretius, to go no further
+back, is a stately monument of the craft; Goerenz plied it busily
+in Cicero and Fickert in Seneca before ever Mr Buecheler wrote a
+word, and in Alschefski’s Livy the style produced a masterpiece as
+yet unrivalled by Mr Sudhaus himself. What stamps the last
+twenty years with their special character is not the presence of such
+scholars as these but the absence of great scholars. During the
+other part of the 19th century, before the North-German school
+had entered on its decline, critics of this order were no less plentiful
+than now—the poor shall never cease out qs the land says the scripture,
+
+xlii M. MANILII
+
+-—but they were cowed and kept under by critics of another order.
+To-day this tyranny is overpast: the Lachrnanns and Madvigs are
+gone, the Mosers and Forbigers remain; and now they lift up
+their heads and rejoice aloud at the emancipation of human in-
+capacity. History repeats itself, and we now witness in Germany
+pretty much what happened in England after 1825, when our own
+great age of scholarship, begun in 1691 by Bentley’s Epistola ad
+Millium, was ended by the successive strokes of doom which
+consigned Dobree and Elmsley to the grave and Blomﬁeld to the
+bishopric of Chester. England disappeared from the fellowship of
+nations for the next forty years: Badham, the one English scholar
+of the mid-century whose reputation crossed the Channel, re-
+ceived from abroad the praises of Duebner and Nauck and Cobet,
+but at home was excluded from academical preferment, set to teach
+boys at Birmingham, and ﬁnally transported to the antipodes: his
+countrymen, having turned their backs on Europe and science and
+the past, sat down to banquet on mutual approbation, to produce
+the Classical Museum and the Bibliotheca Classica, and to perish
+without a name. I will not be unjustI and I hasten to add that
+WWW cm I am aguainted 1s Auito so
+lmnquleish-AQLQ: the resem-
+blance lies' 1n the determination to explain what the MSS happen to
+offer, and the self-complacency which this frame of mind begets.
+It does not seem to strike these gentlemen that if their practice is
+right the practice of those great men who in the last century won
+for Germany the captaincy of European scholarship was wrong;
+that this recurrence to the methods of Wakeﬁeld must acknowledge
+itself to be what it is, a revolt from the methods of Lachmann 3 and
+that living Germans cannot long continue to trade upon the reputa-
+tion of dead Germans whose principles they have abandoned and
+reversed. They now pretend that the relapse of the last twenty
+years is not a reaction against the great work of their elders, but
+a supplement to it. To the Iachmanns and Bentleys and Scaligers
+they politely ascribe the quality of Gem'alitdt: there is a comple-
+mentary virtue called Umsicht, and this they ascribe to themselves.
+Why, I cannot tell: apparently by a process of reasoning which
+may be thrown into the following syllogism:
+
+wrpe ao misenum est mo cautwm esse mc ingem'osum at tam poetas
+
+Latinos edere uelle 3
+ego autem inqeniosus mm swm :
+sum erqo cautus.
+
+ASTRONOMICON I xliii
+
+For assuredly there is no trade on earth, excepting textual criticism,
+in which the name of prudence would be given to that habit of
+mind which in ordinary human life is called credulity.
+
+The average man, if he meddles with criticism at all, is a
+conservative critic. His opinions are determined not by his reason,
+—‘ the bulk of mankind ² says Swift ‘is as well qualiﬁed for ﬂying
+as for thinking,’—but by his passions ; and the faintest of all human
+passions is the love of truth. He believes that the text of ancient
+authors is generally sound, not because he has acquainted himself
+with the elements of the problem, but because he would feel
+uncomfortable if he did not believe it; just as he believes, on the
+same cogent evidence, that he is a ﬁne fellow, and that he will rise
+again from the dead. And since the classical public, like all other
+publics, is chieﬂy composed of average men, he is encouraged to
+hold this belief and to express it. But beside this general cause
+there are peculiar circumstances which explain and even excuse the
+present return to superstition. At the end of the great age, in the
+sixties and seventies, conjecture was employed, and that by very
+eminent men, irrationally. Ritschl’s dealings with Plautus and
+Nauck’s with the Attic tragedians were violent and arbitrary beyond
+all bounds; and their methods were transferred to the sphere of
+dactylic poetry by Baehrens, a man of vast energy and vigorous
+intelligence but of unripe judgment and faulty scholarship, who
+with one hand conferred on the Latin poets more beneﬁts than any
+critic since Lachmann and with the other imported ten times as
+many corruptions as he removed.
+
+This could not last, and a student of the world’s history might
+have predicted what has now ensued. Error, if allowed to run its
+course, secures its own downfall, and is sooner or later overthrown,
+not by the truth, but by error of an opposite kind. When this
+misuse of conjecture had disgusted not only the judicious but the
+greater number of the injudicious, there followed a recoil, and it
+now became the fashion, instead of correcting the handiwork of
+poets, to interpret the handiwork of scribes. The conservative
+reaction was chieﬂy fostered by the teaching and example of Messrs
+Vahlen and Buecheler: men of wide learning and no mean acute-
+ness, but without simplicity of judgment. Once set going by critics
+of repute, the movement, commended by its very nature to the
+general public, has prospered as downhill movements do ; and its
+original leaders, as usually happens to those who instruct mankind
+in easy and agreeable vices, are far outdone by their disciples. In
+
+xliv M. MAN ILII
+
+racing back to the feet of Alschefski Messrs Buecheler and
+Vahlen are hampered by two grave encumbrances: they know too
+much Latin, and they are not sufﬁciently obtuse. Among their
+pupils are several who comprehend neither Latin nor any other
+language, and whom nature has prodigally endowed at birth with
+that hebetude of intellect which Messrs Vahlen and Buecheler,
+despite their assiduous and protracted efforts, have not yet succeeded
+in acquiring. Thus equipped, the apprentices proceed to exegetical
+achievements of which their masters are incapable, and which
+perhaps inspire those masters less with envy than with fright:
+indeed I imagine that Mr Buecheler, when he ﬁrst perused Mr
+Sudhaus’ edition of the Aetna, must have felt something like Sin
+when she gave birth to Death.
+
+Here are specimens of the art, as practised by its most admired
+exponents. Examples of Mr Vahlen’s ‘ gewohnte Feinheit’ I have
+given in my note on I 226 ; so now for the ‘ Umsicht und Scharfe ’
+of Mr Buecheler.
+
+Persius 1 15-23 :
+
+scilicet haec populo pexusque togaque recenti 15
+et natalicia tandem cum sardonyche albus
+
+sede leges celsa, liquido cum plasmate guttnr
+
+mobile collueris, patranti fractus ocello.
+
+hic neque more probo uideas nec uoce serena
+
+ingentis trepidare Titos, cum carmina lumbum 20
+intrant et tremulo scalpuntur ubi intima uersu.
+
+tun, uetule, auriculis alienis colligis escas,
+
+auriculis, quibus et dicas cute perditus ‘ ohe ’2
+
+Madvig adu. crit. 11 p. 128:
+
+x 23 Persius, poetas molliter recitantes ita insectans, ut aperte ipsa carmina
+
+lasciua impudicaque significet, uetulum inducit poetam et sic alloquitur :
+
+tun, uetule, auriculis alienis colligis escas,
+
+auriculis, quibus et dicas cute perditus ‘ ohe '2
+ex his quomodo editores enarratoresque se expediuerint, prorsus non intellego.
+ohe de homine laudantium plausibus et clamoribus obruto accipiunt, qui ubi
+significetur, frustra quaero. sed quibus pronomen necessario ad auriculis
+geminatum refertur ; qui si detiuus est, cur alienis auriculis (qui sane non
+laudabant nec clamabant) ‘ohe' poeta dicat, non magis uideo, quam quid ad
+eam rem pertineat cutis mentio ; et prorsus uitiosum est ; sin ablatiuus putatur,
+ut omittam copulationis insolentiam (quibus et outa), supra modum ridicule poeta
+alienis auriculis et cute (sua, opinor) perditus dicitur; de cute idem quaero,
+quod antea. sed omittamus nugas. uetulus ille alienis auriculis escas colligit,
+quibus ipse ‘ ohe' dicere cogitur, corpore fracto et debili libidinosae uoluptati
+ineptus. debile autem corpus eo significatur, quod cute perditus dicitur, hoc
+
+ASTRONOMICON I xlv
+
+est, aqua intercute aeger ; huic adiungitur alter morbus, articulorum arthritide
+fractorum. scripserat enim Persius :
+colligis escas,
+articulis quibus et dices cute perditus ‘ ohe’ ³
+
+Buecheler Rhein. Mus. vol. 41 p. 457:
+
+Wie leicht der Versuch, es besser machen zu wollen, fehl schlagt, und wie
+geffihrlich hier jeder Sturmlaut gegen die feste Tradition ist, dafiir weiss ich
+kein treffenderes Beispiel als 1 23 die Aenderung von auriculis in articulis
+durch einen unserer geschioktesten Emendatoren, durch Madvig ; als ob zu
+Gelenkknoten je Einer sprache oder auch nur der Klatschende so wie ein
+Schreibender oder Musicirender vornehmlioh Gelenke und Finger bewege, um
+vom Auschluss an v. 22 gar nicht zu reden.
+
+When I read such things, I shiver, and say to myself ‘ numquid
+ego illi imprudens olim faciam simile 2 ² But Mr Buecheler’s pupils,
+charmed with the simplicity of the method, and perceiving that this
+is a game which any fool can play, address him as follows: ‘Ihre
+Sohiiler diirfen auf dem von Ihnen eingeschlagenen und geebneten
+Wege mit dem ruhigen Vertrauen fortschreiten, dass er zur Wahrheit
+fiihrt.’ Geebmten indeed, pkya mime IIépcm.
+
+‘rip‘ [LEV rot KaKd-r'qra Kai M11861! {eri-w {Maean
+fimBleuo· ' Asin pkv 635a, [uilo. 8’ s’yytfflt vaiet.
+rﬁa‘ 8' &periju- {de'rra 0⁶02 rpmrdpotfiev {Onnum
+
+‹iodim-mu„
+
+Mr Theodor Birt, who possesses, like Ezekiel Spanheim and
+Rudolf Merkel before him, an erudition almost redeeming his want
+of a critical faculty, began his career in the seventies with a
+profusion of clumsy conjectures which found no acceptance;
+accordingly, when the tide turned, Mr Birt was ready to follow
+it, and to try his hand at defending the corruptions which he had
+not skill to remove. Propertius has these verses, II 13 46—9,
+
+Nestoris est uisus post tria saecla cinis.
+cui si tam longae minuisset fata senectae
+Gallicus Iliacis miles in aggeribus,
+non ille Antilochi uidisset corpus humari,
+
+in which Gallicus, by reason of its great and manifest absurdity,
+has been attacked with many conjectures, none convincing. Mr
+Birt, Rhein. Mus. vol. 51 p. 527, explains ‘quia Galli ex Ilio
+oriundi, Gallicus iam ille miles fuerat qui contra Graecos in '
+aggeribus Iliacis pugnauit.’ Ay sure; and ‘quia Romani ex Ilio '
+oriundi,’ Hector was a Roman (strange that the Romans never call
+
+,J
+
+l __-
+
+xlvi M. MANILII
+
+him so) ; and Alfred the Great, by parity of reasoning, was a New-
+Zealander ; and Martin Luther was an African, which accounts for
+his propensity to innovation.
+
+Mr Friedrich Leo is a distinguished scholar and critic who has
+written several good books and one book which is not good, a
+commentary on the culex 5 and this has received more praise and
+exerted more inﬂuence than any of the others. Naturally so ; for
+its faults are congenial to the multitude and easy of imitation.
+
+Culex 286 sq.
+
+haec eadem potuit, Ditis, te uincere, coniunx,
+Eurydicenque ultro ducendam reddere.
+
+uiro Heinsius. But Mr Leo knows a trick worth two of that: ‘in
+his nihil ambiguum: lyra deam uincit et quasi ipsa reddit coniugem
+citharistae ’——that is Heinsius’ uiro—‘ quae deae persuadet ut reddat,
+et ultro quidem, nam nisi precibus nullo coactu pretioue redimitur
+Eurydice.' ‘nisi precibus’: so ultro reddere means precanti reddere ;
+and dare gratis, if necessary, will mean uendere mayrw, and niqer will
+mean candidus.
+Culex 58-61.
+
+0 bona pastoris ...... incognita curis
+quae lacerant auidas inimico pectore mentes.
+
+Mr Leo writes ‘ mens in pectore sita est, pectus inimicum (placidum
+97) uindicat Vergilius (Aen. x 555, XI 685).’ The ﬁttest and the
+severest comment on this note is simply to transcribe Virgil’s words :
+‘ truncumque tepentem | prouoluens super haec inimico pectore fatur,’
+‘hunc illa exceptum . . . traicit et super haec inimico pectore fatur.'
+uindicat Vergilius !
+
+Ouid. her. xx 178, Acontius to Cydippe.
+
+quem si reppuleris, nec, quem dea damnat, amaris,
+(et tu continuo, certe ego saluus ero) 178
+sistc metum, uirgo, stabili potiere salute.
+
+Mr Leo at culex 296 says that this verse, ‘quem nuper temptare
+coeperunt et ne Ehwaldus quidem ut libri tradunt recepit, habet
+aduerbium eodem colore insigne quo est apud Ciceronem de leg.
+I 35 ex his enim, quae dixisti, Attico ametur, mihi quidem certe, ex '
+natura ortum esse ius’; i.e. the words mean ‘ego saluus ero etiamsi
+tu salua non fueris.’ And pretty nonsense that makes; not to
+mention that Acontius expressly says at 233 ‘iuncta salus nostra
+est ’ and at 123 ‘ torqueor ex aequo uel te nubente uel aegra.’
+
+ 
+
+ASTRONOMICON I xlvii
+
+Mr R. Ehwald follows the ‘ exegetischen Vorbilder, die besonders
+Leos Kommentar zum culex und der Kaibels zum Aristoteles und
+Sophokles aufgestellt haben,’ and in a pamphlet published at Goths
+in 1900 he undertakes to defend the text of Ouid. her. xlv 41 sq„
+Hypermestra to Lynceus,
+
+ipse iacebas,
+quaeque tibi dederam uina, soporis erant ;
+
+where ‘soporis erant’ for ‘soporiﬁca erant’is a solecism pilloried
+in all the grammars, genetiuus qualitatis sine epitheto. All
+genitives are the same to Mr Ehwald, and he cites, as parallels to
+this, a genitive of material, art. I 292 ‘cetera lactis erant’ (i.e. ex
+lacte constabant, see Soph. Ant. 114 waﬁcr devoa' WTépv‘yt), and the
+possessive genitives Cic. Tusc. I 60 ‘uis (animi) . .. non est certe
+nec cordis nee sanguinis,’ de diu. 11 111 ‘est enim (poema) . . . artis
+et diligentiae,’ Ouid. ap. M. Sen. contr. VII 1 27 ‘omnia noctisl
+erant’; and because ‘omnia noctis erant’ means ‘nox omnia
+habebat’ he infers that ‘uina soporis erant’ can mean, not ‘sopor
+habebat uina’ ‘the wine was asleep,’ but ‘uina habebant soporem’
+‘the wine was soporiﬁc.’ I am not lying, here are his words:
+‘ wenn omnia noctis erant als ein von Ovid bevorzugter und besonders
+gelobter Ausdruck uns bezeugt ist in dem Sinn “alles war der
+Nacht verfallen, ﬁberall herrschte die Naeht,” so ist auch uina
+soporis orant untadelig im Sinne “der Wein hatte die Wirkung des
+Schlafes, war ein Schlaftrunk.” ...... Damjt ist der sprachliche
+Anstoss beseitigt.’ Why not adduce Verg. Aen. I 1 ‘Troiae
+oris'?
+
+But suppose that we could blunt our grammatical perceptions
+to the hebetude of Mr Ehwald’s and remove the ‘sprachliche
+Anstoss’ of the solecism soporis = soponfica by citing examples
+which have nothing in common with it: what then? Then the
+sentence will mean ‘ipse iacebas, uinaque, quae tibi dederam, sopori-
+ﬁca erant.’ Who says ‘ uina, quae dederam, soporifica erant’ when
+he means ‘dederam uina. soporiﬁca’? for not a word has hitherto
+been heard of any wine offered to Lynceus by Hypermestra. And
+who says ‘ iacebas, uinaque soporifica erant’ when he means ‘iacebas,
+uina enim soporifica erant’? Admire the Umsicht which has never
+even asked itself these questions. And admire too the self-
+
+¹ This forms a parallel to Postgate’s emendation ‘quemque tibi dederam
+uina, soporis eras’ (29 ‘mero dubii,’ 33 ‘cibo uinoque graues somnoque
+
+iacebant'): compare also met. vn 329 sq. ‘custodes somnus habebat, ] quem
+dederant cantus.’
+
+xlviii M. MAN ILII
+
+complacency engendered by this union of obtuseness and in-
+
+attention: ‘Palmer meint uina soporis eram sei sprachlich unmoglich:
+
+er hiitte sich nur, um sich vom Gegenteil zu iiberzeugen, an Seneca
+
+controu. VII 1 27 erinnem sollen.’ ‘Cette maitresse d’erreur que
+
+l’on appelle fantaisie et opinion’ says Pascal ‘remplit ses het-‚es
+
+d’une satisfaction beaucoup plus pleine et entiere que la raison.’
+Ouid. met. x 637.
+
+quid facit, ignorans amat et non sentit amorem.
+
+‘Die augusteischen Dichter’ says Mr Ehwald ‘haben bisweilen in
+archaisierender Weise auch im indirekten Fragesatz den Indikativ ’ ;
+and to substantiate this assertion about indirect interrogative clauses
+he cites examples not only of the indicative in direct interrogative
+clauses (such as ‘dic mihi, quid feci ⁴3 ’) but also of the indicative in
+relative clauses: her. XVI 78 ‘ham esse ut scires, mule mouetur amor,⁷
+art. III 115 sq. ‘ adspice, quae nunc aunt, Capitolia, quaeque fuemntzi
+alterius dices illa fuisse Iouis,’ fast. VI 367 sq. ‘si respicerent, qua
+uos habitatis in arce, | totque domos uestras obsidione premi? Here is
+Goerenz come to life again, of whom Madvig wrote in 1839 ‘ si qua
+est mota dubitatio, fere numquam scit, quid agatur, neque rem ad
+quaerendum propositam mente concipit ; cum de oratione quaeritur,
+si in interrogatiuae sententiae modo haeretur, ille de relatiua dicit.’
+
+Mr F. Vollmer, not content with editing Statius’ siluae in the
+popular fashion, has lately published in the Berliner Philologische
+Wochenschrift vol. xx p. 1293 sq. some specimens of what this
+method can do for the text of Manilius.
+
+Manil. V 608 sq.
+
+tandem confossis subsedit belua membris
+plena maris summasque iterum renauit ad undas.
+
+renwauit Bentley and subsequent editors. ‘609 ist rennuit als
+nequiuit zu halten ² says Mr Vollmer. A very pretty verb, formed,
+I presume, on the analogy of race, reintegro, reoleo, mundo, and
+requuo. Mr Vollmer has been appointed editor in chief of the
+Thesaurus Linguae Latinae.
+
+Stat silu. I 4 22 sq.
+
+ipse ueni uiresque nouas animumque ministra
+quis caneris.
+
+Sense demands qui, and so the editors used to read. But hear Mr
+Vollmer: ‘q'u/is bezieht sich einfach als abl. instr. auf uires und
+
+ASTRONOMICON I xlix
+
+animwm.’ Sense and nonsense are all one to him, and he ﬁnds
+nothing to wonder at in the sentence ‘ueni et ministra eas nouns
+uires eumque animum quibus (nondum ministratis ⁴1) caneris’ (pres.
+indie).
+
+Stat. silu. I 4 119 sq.
+
+nunc aure uigil nunc lumine cuneta.
+auguror.
+
+The meaning of ‘cuneta auguror ' in the Latin language is ‘cuncta.
+futura esse conicio’: because this is not sense, Heinsius writes
+aucupor, which is. Mr Vollmer placidly mistranslates ‘auqm-or
+beobachte, um fiir die Zukunft Schliisse zu ziehen.’ Where else
+has augwmr any such meaning'! Nowhere; but augury has some—
+thing to do with the future, and any German phrase containing the
+word ‘Zukunft’ will pass with Mr Vollmer for a rendering of
+aqurari.
+Stat. silu. II 1 220—3.
+
+ast hic, quem gemimus, felix hominesque deosque
+
+et dubios casus et caecae lubrica uitae
+
+effugit, immunis fatis. non ille rogauit,
+
+non timuit meruitue mori: .
+
+Heinsius, having considered the sense and the context, observed
+that meruit was a propos de bottes, and conjectured rewait. Mr
+Vollmer snatches his pen and writes ‘meruitne ergiinzt gut den
+vorhergehenden Gedanken (vgl. 177 imman'tus), er starb eben als
+unschuldiges Kind ’ ; i.e. he has not yet read the next clause, which
+is this,
+nos anm'a plebes,
+nos miseri, quibus unde dies suprema, quis aeui
+exitus, incertum,
+
+and contains no such thought as ‘ nos sontes.’ Well may he say in
+his preface that Statius is an author ‘dessen Worte einer kurzsich-
+tigen Kritik zumOpfer gefallen sind.’
+
+Stat. silu. II 5 1 sq. (leo mansuetus).
+
+quid tibi monstrata mansuescere profuit ira?
+quid scelus humanasque animo dediscere caedes'l
+
+constrata earlier editors. ‘monstrata ist nicht zu andern. Es wird
+
+durch dediscere gesichert: die ira, welche die Natur dem L6wen
+
+monstrauit (technisch vom Lehrenden s. zu III 3 39; ebenso docto
+d
+
+M M. MANILII
+
+v. 7), verlernt er ’—that is ctmstrate—‘indem er mansuescit! Seven
+lines above, 11 4 31 sq„ are these words, (psittacus) ‘ conuiua leuis
+monstrataque reddere uerba I tam facilis,’ and they show what
+monstrata really means. Here, lest one letter should be altered, it
+is to mean exactly the reverse, monstrata (a natura), that is (a nullo).
+
+The promptness with which these scholars defend the corrupt
+and the ease with which they explain the inexplicable are at ﬁrst
+sight a. strange contrast to the embarrassment they suffer where the
+text is sound and the difficulty they ﬁnd in understanding Latin.
+Indeed it may almost be said of them that if they are to construe
+a passage ﬂuently the passage must be corrupted ﬁrst. But the
+one phenomenon is only the result of the other. If a man is
+acquainted with the Latin tongue and with the speech of poets, he
+is sharply warned of corruption in a Latin poet’s text by ﬁnding
+that he can make neither head nor tail of it. But Mr Vollmer
+and his fellows receive no such admonitory shock; for all Latin
+poets, even where the text is ﬂawless, abound in passages of
+which they can make neither head nor tail. Thus they gradually
+come to regard Latin poetry as having absurdity for its main
+characteristic; and when they encounter in a corrupt passage the
+bad grammar or nonsense which they habitually impute to an author
+by misunderstanding what he has written, they encounter nothing
+unexpected. The following examples of Mr Vollmer’s inability to
+construe Statius will throw much light on his proﬁciency in con—
+struing Statius’ scribes.
+
+Stat. silu. I 2 61 sq.
+
+puer e turba uolucrum, cui plurimus ignis
+ore manuque leui numquam frustrata sagitta.
+
+This means ‘qui ore plurimum ignem et manu leui sagittam
+numquam frustratam gerit.’ But Mr Vollmer explains ‘oui
+plurimus iqnis ore est et cui (=a quo) manu leui numquam frustrata
+saqitta est d. h. vergeblich entsendet’: then he seems to bethink
+himself that mortal man could hardly write such stuff, and adds
+‘die Moglichkeit, dass St. manusque leuis oder mnusque leui ge-
+sohrieben, ist freilich nicht unbedingt abzuweisen.’ Those who defend
+a text where it is corrupt are likely to suspect it where it is sound. '
+Stat. silu. I 2 139 sq. '
+ipsam iam cedere sensi
+
+inque uicem tepuisse uiro. 1
+
+‘uiro ist Dativ,’ says Mr Vollmer, ‘fiir den Mann ergliihen.’ Is I.
+
+s
+
+ASTRONOMICON I li
+
+quo dative then in Hor. carm. I 4 19 ‘Lycidan . . . quo . . .
+uirgines tepebunt”! But Mr Vollmer's notion of the dative case
+is a case which he can translate by ‘ fiir ² ; and when he edits Virgil
+we shall read this note at Aen. VI 621 ‘ uendidit hic auro patriam ' :
+‘auro ist Dativ, er verkaufte sein Vaterland fiir Gold.’
+
+Stat. silu. I 4 39 sq.
+
+quae tum patrumque equitumque notaui
+lumina et ignarae plebis lugere potentes!
+
+These words describe the public grief at the illness of Rutilius
+Gallicus ; they are quite easy, and they mean ‘quales (quam
+maestos) notaui oculos patrum equitumque atque adeo plebis, quae
+potentes lugere non consueuit’: iqnarus has the inﬁnitive again at
+Theb. 111 67 ‘ignara moueri.’ Mr Vollmer’s note is ‘lumina
+“Leuchten” d. h. angesehene Manner wie Verg. XI 349 Silu. Iv 8
+15 u. o. iqnarae Gegensatz zum Vorhergehenden “unbekannt,
+obscur.”’
+Stat. silu. II 6 50 sq.
+saepe ille uolentem
+castigabat erum studioque altisque iuuabat
+consiliis. -
+uolentem of course means oastiqari uolentem5 so 15 sq. ‘cui dulce
+uolenti I seruitium,’ Verg. georg. IV 561 sq. ‘uictorque uolentis I per
+populos dat iura.’ What Mr Vollmer imagines it to mean he is
+too modest to say: he contents himself with quoting Martial’s
+obscene verse 1v 42 11 ‘ saepe et nolentem cogat nolitque
+uolentem.’
+Here is a similar example from Mr. Ehwald: Ouid. her. XIV
+89—94
+adstitit in ripa liquidi noua uacca parentis
+cornuaque in patriis non sua. uidit aquis
+conatoque queri mugitus edidit ore
+territaque est forma, territa uoce sua.
+quid fugis, infelix? quid te miraris in umbra?
+
+mida most MSS, but P has umbra, which is equally good and there-
+fore probably right. Mr Ehwald accepts it, in blind reliance on
+the authority of P, but he does not know what it means. He
+supposes ‘in umbra’ to signify ‘sub arboribus,’ and credits Ovid
+with the aimless enquiry ‘ quid te miraris (non in clara luce sed)
+in umbra 2 ' ; and this aberration, which has no existence except in
+
+lii M. MAN ILII
+
+his own fancy, he seriously commends as follows : ‘mit umbra wird
+ein charakteristischer neuer Zug eingeiiihrt, mit unda nur etwas
+sehon Gesagtes wiederholt.’ Goerenz again: I say with Madvig at
+Cic. de ﬁn. II 50 ‘ ego hoc loco et multis aliis, si eligendi necessitas
+esset, mallem non inscite errare quam, cum nihil intellegerem,
+superstitione et casu ueros apices relinquere.² umbra means the
+reflexion in the water: met. 111 416 sq. ‘dumque bibit, uisae
+correptus imagine formae | spem sine corpore amat ; corpus putat
+esse, quod umbra est,’ 434 ‘ ista repercussae, quam cernis, imaginis
+umbra est,’ XIII 839 ‘certe ego me noui liquidaeque in imagine
+uidi | nuper aquae.’
+
+These samples come from Germany, but they have their counter-
+parts in England. It surprises one at ﬁrst that Mr S. G. Owen
+at Ouid. trist. I 1 43 should ascribe to Ovid the obvious falsehood
+‘carminibus metus omnis abest: and this too in a. context which
+requires obest3 and that four lines lower he should print the
+meaningless Latin ‘ da mihi Maeoniden, et tot circumspice (circumice
+Heinsius) casus: | ingenium tantis excidet omne malis' and render
+it by the meaningless English ‘give me a Homer’s self—marking
+well my many sorrows—and all his powers will fail him in the
+presence of such heavy woes ’ and proffer the meaningless explana-
+tion ‘ the expression da mihi is a general formula, not addressed to
+the reader personally, equivalent to if I were to become Homer. So
+P. IV 1 17 da mihi, si quid ea est, hebetantem pectora Lethen '—
+equivalent, I suppose, to if I were to become Lethe. But all surprise
+is dispelled as one proceeds and finds Mr Owen repeatedly crediting
+Ovid with similar absurdities where the text is quite sound and
+sensible: he imagines that at I 2 67 sq. the words ‘est illi nostri
+non inuidiosa cruoris | copia’ (my life is his to take, and no ill—will
+is owing him on that account) mean ‘the power of shedding my
+blood is not an object worth envying him ' 3 that ib. 83 ‘obligor,
+ut tangam laeui fora litora Ponti ' (here am I making vows, and all
+that I may reach a savage coast) means ‘I am under an obligation
+to reach, i.e. I am compelled to reach’; that in I 3 23, ‘femina
+uirque meo, pueri quoque funere maerent’ (man woman and child),
+pueri means ‘slaves (Catull. XXVII 1), for Ovid had no sons’; that
+I 6 13 ‘rebus male ﬁdus acerbis' (betraying me in the day of
+trouble) means ‘in malignant conﬁdence in my piteous plight’;
+that in I 7 4 ‘temporibus non est apta corona meis’ (a wreath
+suits not my forehead) the word temporibus means ‘ circumstances’ ;
+and that in I 11 23 sq. ‘mortis imago, | quam dubia timeo mente
+
+ASTRONOMICON I liii
+
+ 
+
+timensque precor ' the relative pronoun quam (mortem) is an adverb
+qualifying dubia, ‘with what misgiving of heart I dread, yet pray
+for all my dread.’ It is natural and even inevitable that those who
+mistake poets’ sense for nonsense should mistake scribes’ nonsense
+for sense.
+
+By this time it has become apparent what the modern conserva-
+tive critic really is: a creature moving about in worlds not realised.
+His trade is one which requires, that it may be practised in per-
+fection, two qualiﬁcations only: ignorance of language and abstinence
+from thought. The tenacity with which he adheres to the testimony
+of scribes has no relation to the trustworthiness of that testimony,
+but is dictated wholly by his inability to stand alone. If one
+cannot discriminate between grammar and solecism, sequence and
+incoherency, sense and nonsense, one has no protection against
+falsehood, and believes all the lies one is told. And critics who
+treat MS evidence as rational men treat all evidence, and test it by
+reason and by the knowledge which they have acquired, these are
+blamed for rashness and capriciousness by gentlemen who use MSS
+as drunkards use lampposts,—not to light them on their way but
+to dissimulate their instability.
+
+I hope and believe then that my numerous defences and explana-
+tions of passages attacked and altered by Scaliger and Bentley are
+not such as would have occurred to Mr Vollmer or Mr Sudhaus,
+and that I have nowhere encroached on the ample ﬁeld which
+Manilius’ text affords them for the exercise of their favourite
+industry and the display of their peculiar prowess. I sometimes
+amuse myself by trying to forecast their operations. For example
+at v 289, ‘condentemque nouum caelum per tecta tenacis,’ where
+Scaliger writes Tonantis and Bentley Tonanti, I can almost predict
+the words of their defence: ‘die Ueberlieferung ist richtig: tenet
+Iuppiter fulmen; vgl. Priap. 9 3 fulmen habet mundi dominus, tenet
+illud aperte, Hor. carm. I 3 38 sqq. neque | per nostrum patimur
+scelus | iracunda Iouem pmwrefulanina!
+
+VI
+
+When a passage is apparently inexplicable and probably corrupt,
+then comes the question, by what means shall we correct it? and
+here, ﬁrst of all, we must have no favourite method. An emen-
+
+liv M. MAN ILII
+
+dator with one method is as foolish a sight as a doctor with one
+drug. The scribes knew and cared no more about us and our
+tastes than diseases care about the taste of doctors ; they made
+mistakes not of one sort but of all sorts, and the remedies must
+
+¹ be of all sorts too. Haase in Seneca, for ever assuming lacunas,
+
+and Bake in Cicero, for ever assuming glosses, are examples of
+editors maimed by their own whims: criticism requires a mind
+as various as its matter, nimble, ﬂexible, empty of prepossessions
+and alert for every hint. It is neither my business nor my purpose
+to rehearse and classify here the modes of emendation; but I shall
+mention two, because some readers will perhaps suppose them to
+be favourites of my own. I do not think so myself: I think that
+the reason why I have to use them so often is that my predecessors
+have not used them often enough. They are the antidotes of two ‘
+particular sorts of corruption whose ease and frequency are not yet
+fully understood.
+
+The transposition of letters (some forms of which, as fraglo for
+flagro, impiae for forcipe, displicina for disciplina, were part of the
+vulgar speech) is an error of which I have given many examples
+in many places since 1887. I will here draw up a list of its various
+forms with a selection of specimens in each.
+
+Trajection of one letter: Lucr. II 209 cadere in terram, caderem
+in terra, 555 aplustra, plaustra, IV 309 multa, mault, V 617 cancri
+so, canceris, VI 977 iucunda, oiuunda, Catull. 61 24 ludicrum,
+hidricum, 64 54 (253, 66 60, Prop. II 3 18) ariadna, adriana, 64 61
+eheu, heuo, 64 251 parte, pater, 71 2 (and 6) podagra, podraga,
+Verg. Aen. IV 564 uarios, suario, georg. IV 71 aeris, aries, Hor.
+serm. 11 3 242 cloacam, coaclam, epist. I 5 26 but/ram, brutam,
+19 39 (qu. III 322, Ouid. trist. II 60) auditor, adiutor, II 1 79
+necne, nenec, art. 350 feriet, fieret, Ouid. Ib. 480 crotopiaden,
+cottopiaden, met. XIII 628 antandro, anta-ando, XIV 92 cercopum,
+cecoprum, xv 717 trachas, thracas, fast. III 272 quisque suo, quique
+sues, IV 726 februa, frebua, trist. I 2 9 neptunus, netupnus, II 460
+exercet, execret, IV 4 41 rumpe, rupem, V 12 35 qualia, aliqua, ex
+Pout 1v 7 15 tendisti, tenditis, her. III 87 aeacide, aeciade, xvr 3
+indice notae, indie nocte, Pers. I 113 pinge duos anguis, pinguedo
+sanguis, III 117 dicis, disci, VI 20 empta, eptam, Liu. XXI 19 1
+derecta, decreta, XXII 14 3 extrema iuga massici, extremam iuga
+assici, XLI 21 3 claudio sine, eladio suine, XLIV 6 12 repetendi,
+repentedi, Plant. trin. 224 indipiscor, indispicor, mil. 604 si
+
+ 
+
+ASTRONOMICON I lv
+
+resciuere, scire siuere, Stat. Theb. 1x 518 (silu. 11 6 55) cecro-
+pine, cecopriae, X 510 ialmenides, alimenides, 924 attritis, at-
+tristi, Nem. cyn. 218 ebore, ebreo, 280 uigor, uirgo. With
+further change: Ouid. lb. 569 acerno, agenor, fast. IV 766
+lupo, duplo, met. XII 23 superat, seruat, XIV 567 monstri, montis,
+Lucr. II 680 parcat, parato, Pers. prol. 5 lambunt, ambiunt, V 9
+glyconi, cydoni, Catull. 62 40 conuolsus, conclusus, Tibull. 11 1 66
+applause, appulso, Prop. 1 16 12 purior, turpior, Gratt. 459 defugit
+a, defuit ac, Sen. Herc. Oet. 1767 spolium, solitum, Val. F1. I 742
+stupet aea, stupe acta, Stat. Theb. V 470 aduersi, adsueti, Verg.
+Aen. IX 517 armorum, murorum, Tac. hist. III 9 Uipstanus, uipsanius,
+Liu. XXI 8 10 abiegno, ab ligneo, XLII 41 12 sum persecutus,
+sumpsere cuius.
+
+Inversion of two letters: Verg. georg. 111 440 (Lucr. VI 565,
+Hor. carm. I 15 24, Tibull. I 1 59, Prop. III 13 55, Ouid. her.
+XIII 72, Sen. Oed. 466, Stat. silu. V 3 242) te, et, II 313 (III 95,
+IV 322, Aen. XII 883, Cic. phaen. 2) ima, iam, I 115 (III 2, IV 293,
+Aen. II 296, IV 34, 490, V 634, Sen. Thy. 68) amnis, manis, II 277
+setius, estius, III 166 circlos, cn'clos, 255 (559) mus, usus, 381 trioni,
+tironi, IV 123 tacuissem, tcauissem, 346 (Prop. 11 8 39) martis, matris,
+Aen. 1 24 (Ouid. met. I 600, fast. V 651, Sen. Phaed. 1057, Oed.
+486) arqis, aqris, 11 15 instar, inst/rd, III 158 astra, asrta, IV 220
+(Ouid. met. XIII 649, Sen. Oed. 951) partem, patrem, 250 (Lucr.
+I 489, V 675, VI 84, 257) flumen, fulmen, 438 fert, fret, 495 arm,
+aram, 684 germanam, geramnam, VIII 72 sancto, emoto, buc. V 21
+coryli, ocryli, Hor. carm. I 31 16 cichorea, cichorae, 111 12 6 liparei,
+liparia, serm. 1 3 90 commixit, commixti, epist. I 6 58 gargilius,
+gragilius, 11 24 ut, m, 18 111 set, est, art. 36 (Lucr. IV 517) prauo,
+paruo, 423 (Lucr. VI 1147) artis, atris, Prop. 1 3 27 duxti, duxit,
+14 24 (III 7 61) alcinoi, alcioni, II 6 6 phryne, phyrne, 13 55
+paludibus, plaudibus, 28 29 heroidas, herodias, 111 5 35 plaustra,
+palustre, 13 24 (Stat. Theb. XI 321)pia, ipit, 15 41 prata, parta, IV
+5 74 clatra, caltra, Ouid. met. 111 540 acrior, carior, VI 78 acutae,
+cautae, 117 aloidas, aolidae, 350 (Stat. Theb. VI 57) aera, arca, XII
+329 execrere, exercere, xm 45 pomum, poaentia, 588 (fast. I 615,
+707, Sen. Herc. Oet. 29, Stat. silu. II 6 13) dies, deis, trist. IV 2 33
+inclusit, inculsit, V 10 27 idem, diem, Tac. hist. I 15 m, 172:, Cic.
+Rose. Am. 66 elui, leui, Plant. capt. 209 id, di, Tibull. II 4 3 teneor,
+tenero, Stat. Ach. 1 653 uisa, uias, Germ. phaon. 153 arator, aratro,
+Anien. Arat. 420 puppes, ppwpes, Sen. Phaed. 541 praeceps, praecesp,
+780 cingent, cingmt, 877 continget, contignet, 1227 cingens, ciqnens,
+
+lvi M. MAN ILII
+
+Oct. 105 fruor, furor, catull. 45 4 omnes, omens, 74 3 perdepsuit,
+per-despuit, 90 6 omentum, omne tum, Lucr. V 1116 creti, certi,
+VI 402 eas tum, aestum, 642 flammea, flammae, 749 ipso, piso, 907
+lapis, lapsi, 938 ad res, ardes. With further change: Lucr. I 741
+(Tibull. III 2 27, Stat. silu. II 6 58, Ouid. fast Iv 807) casu, causa,
+V 186 (Pers. V 105, Sen. Phoen. 184) specimen, speciem, 193 meatus,
+maestus, 854 mutent, metuent, VI 179 liquescit, quiescit, 1089 fieri,
+ferri, Catull. 93 2 scire, si ore, Tibull. II 5 70 pertulerit, perluerit, pan.
+Mess. 72 (Ouid. met. VI 77, her. XVIII 205, Sen. Herc. Oet. 1240)
+sera, freta, Ouid. met. I 196 superi, pueri, 111 39 umas, undae, IV 646
+moenibus, montibus, V 107 broteas, boreas, VII 248 cinit, lcuit,
+VIII 444 recalfecit, recalescit, XII 382 uara, dura, fest. III 547 cinis,
+iqnis, rem. 778 toro, oiro, trist. I 10 9 coquite, concita, Verg. georg.
+IV 110 furum, frugum, Aen. II 771 (IX 552, XII 505, Luc. I 254,
+VII 295, Sen. Thy. 739) menti, furenti, Sen. Ag. 650 deflere, deferre,
+Stat. Theb. VII 342 orbata, oblata, Tac. hist. III 27 ligones, leqiones,
+Liu. III 70 6 integrum, interdum, XXII 7 13 conplexu, conspexu,
+14 4 segnibus, sensibus, Mart. III 60 5 suillos, pusillos, Il. Lat. 980
+en, 72, Claud. 111 cons. Hon. 17 cunabula, uenabula, qu. vm 155
+robum, toruum.
+
+Inversion of three letters: Liu. xm 16 9 cis, sic, 29 6 enixe,
+exine, Lucr. III 170 (Verg. Aen. XII 916) teli, leti, 305 pauoris,
+uaporis, V 208 (Verg. georg. II 400) bidenti, dibenti, VI 851 (Liu.
+XXII 6 10) raptim, partim, Verg. georg. II 203 (356, III 515, Hor.
+carm. III 13 11) uomere, mouere, 512 sole, lose, III 274 (Pers. V 90,
+Stat. Theb. VII 575, silu. V 2 40) exceptant, expectant, Aen. I 445
+facilem, salicem, VI 221 nota, nato, VIII 317 parto, rapto, Hor. carm.
+II 20 15 getulas, tegulas, III 9 9 regit, riqet, epod. 5 15 inplicata,
+inplacita, 16 51 ouile, oliuae, serm. I 2 3 tiqelli, teqilli, 3 37 felix,
+filex, epist. I 3 31 mwnatius, numatius, 6 18 (Ouid. met. XI 506,
+Germ. phaen. 577) suspice, suscipe, Ouid. met. II 415 maenalon,
+melanuri, X 48 eurydicen, euryoiden, XI 28 mwnera, n'wmera, 489
+(Tibull. III 3 22, Stat. Theb. vn 251, silu. 111 3 49) yeruntur,
+requntur, XIII 731 revomit, remouit, XIV 86 hippotadae, hippodate,
+89 inarimen, iramimen, XV 705 caulona, caumla, trist. I 6 1 (11 541,
+V 6 21) dilecta, delicta, II 379 sciremus, scerimus, lb. 358 (Catuli.
+64 350, qu. VI 493) crimen, crinem, 404 dexameni, dexemani, fast.
+II 740 mero, more, her. XII 120 credulitatis, crudelitatis, XVIII 133
+limes, miles, XX 30 uafer, fauor, Sen. Tro. 105 latus, talus, 563
+possedit, possidet, 799 rapiet, pariet, Phaed. 1201 taenarei, tenerai,
+Ag. 188 pwridis, rapidis, 781 redit, ridet, Herc. Oet. 1969 paret,
+
+ASTRONOMICON I lvii
+
+pater, Oct. 141 pactus, captus, Stat. Theb. Iv 461 plorata, prolata,
+VII 110 uires, ueris, 511 doli, dilo, VIII 718 (740, qu. VIII 229)
+melanippus, menalippus, Plant. mil. 1243 uilem, uelim, Tac. hist.
+111 7 nulio, uideo, Cic. de fin. 111 49 (Non. p. 64 31) bonis, nobis,
+de diu. 1 30 direxit, dixerit, pro Clu. 49 uenerit, ueniret, Prop. 1 1 9
+milanion, minalion, Phaed. 111 19 7 redire, n'dere, Germ. phaen. 331
+tale, tela, Auien. Arat. 56 gelido, legido. With further change:
+Mart. XIV 162 1 mula, plu/ma, Hor. serm. 1 1 38 (epist. I 7 40)
+sapiens, patiens, 11 3 21 uafer, faber, Prop. I 1 1 cepit, fecit, Lucr.
+II 199 (Ouid. Ib. 598) remit, remouet, VI 916 peruolat, perualet,
+Catull. 17 10 putidae, pudicae, Verg. bue. V 61 (Ouid. her. XX 41)
+dolum, modum, georg. 1 122 per artem, parentem, II 514 penates,
+nepotes, 111 235 refectae, receptae, IV 176 aliter, alioet, 548 facessit,
+capessit,·¹Aen. IV 169 (VII 481, Ouid. met. IV 563, trist. V 2 3)
+malorum, laborum, Stat. Theb. II 328 pastus, saltus, IV 528 (VI 525)
+speculis, scopulis, X 915 stygias, scytias, Ach. I 582 perdita, perfida,
+Sen. Tro. 1082 gerit, teqit, Ag. 428 remiqem, regimen, Herc. Oet.
+1443 awlo, leto, Ouid. met. II 421 posita, solita, III 725 aspice, accipe,
+v 482 lassa, salsa, VI 556 (XII 277, Pers. IV 10) forcipe, forfice,
+VII 559 nude, dua-a, 763 pestis, cessit, XII 18 prouidus, prodique,
+XIII 733 ora gerens, ore carens, XV 818 colatur, locetur, fast. II 585
+inmodico, indomito, III 418 gratare, cratera, trist. IV 5 27 bonitate,
+nouitate, ex ‘Pont. II 10 18 sequamur, queramur, her. xx 210 motis,
+toris. ⁴
+
+At this point I omit the frequent confusions modo domo, yeret
+reget, limitis militis and many like them, because these may be
+assigned indifferently to the preceding and to the following class
+(mo-do, do-mo).
+
+Transpositions of syllables: Verg. Aen. XI 711 pua-ra, rapa,
+culex 355 la-te, te-la, Ouid. Ib. 246 er-it, tit-er, met. XI 200 laomo-
+donta, laedo-menta, XII 306 mela-neus, menelaus, XIII 686 ro-gi,
+qy-ro, trist. V 6 11 (Il. Lat. 218) podoelifius, poli-darius, rem. 243
+diso-edere, ded-isoere, her. VIII 88 quodue mihi, quod mihi uae, Hor.
+carm. I 36 1.7 prb-tres, tres—pu, Stat. Ach. I 638 preme-s urentia,
+prosu—merentia, 11 4 bacchi-ca mos, camxos bacchi, silu. III 5 57 tra-
+chinia, iwtracia, Amm. Marc. XIX 10 4 incunabu-lis, incunali-lms,
+heptat. Lat. gen. 421 qua-terni, terni-qm, Plant. mil. 356 mini-me,
+mo-mini, trin. 521 umquam fieri neque gnati tui, umfieri neque gnati
+tui quam, Lucr. 111 154 ita palloremque, itaquo pallorem, IV 1145
+cauereque m, cauere oze-que, V 227 restet transire, re et transirest,
+Germ. phaen. 143 prior—a tenec, ate prim· nec. With further change :
+
+lviii M. MAN ILII
+
+Hor. carm. III 8 27 ‘ra-pe, spe-ra, Non. p. 93 33 bus-to, (Jo-bus, Prop.
+II 34 53 restabit erumpnas, restauer-it undas, III 5 24 sparsor-it,
+sparsit a, 23 21 rettuler-it, retulit et, IV 1 106 umbraue quas, um-
+braque ne, Catull. 58 5 magna-ml-mi remi, magna. amiremimi, Ouid.
+met. II 688 uocabant, ca-nebant, 111 567 remoramina, moderamina,
+IV 230 neo-ratus, re-motus, X 653 pede libat, pewdebat, XIV 254
+stet-imusque, simubatque, trist. I 2 7 Oder-at, odat-ur, 11 168 per tua
+perque, pape-tuosque, 565 sali-lma, stam-lis, IV 2 31 host-ilibus, im
+hostibus, Pers. 1 114 discedo secuit, dissemit cedo, Stat. Theb. vn 112
+tce-lit, lirbet, silu. I praei. conual-escenti, est valenti, Sen. Thy. 488
+test-or tarmen, hortamen est, Phaed. III 10 36 mali-qna insontem,
+maqna imo-lentem, Auien. Arat. 1630 frater-nos, mn: fratrem, Cic. de
+ﬁn. V 9 mathematicorum, in achad-micorum, pro Sest. 131 sal-ucis,
+ut scitis, Liu. XXII 25 12 in-scitiam, scientiam, XXXV 10 8 legarto,
+col-lega, Tac. hist. I 31 celsum infestis, festum incestis.
+
+Transposition of two letters across an intervening space : Prop.
+111 3 35 newis, uernis, 13 11 matrona, motrana, IV l 129 (Ter.
+haut. 535, Verg. buc. X 68, Ouid. her. IV 45, art. II 729, ciris 275)
+uersarent, seruarent, Ouid. met. v 246 detrectas, detractes, VI 234
+(Sen. Thy. 416) dantem, tandem, Hor. epist. I 2 5 distenet, destinet,
+Val. Fl. I 564 phlegrae, phreglae, Stat. Theb. 11 311 (Liu. XXIV
+45 2) descisse, discesse, Cic. de leg. II 57 porcus, colpus, Plant. rud.
+545 ballena, bellana, Auien. Arat. 540 ductos, doetus, cops. 34 prisca,
+crispa, Liu. XLI 24 14 (Cic. ad Att. IV 5 2) faceret, fecerat, 11. Lat.
+786 polydamas, palydomas, Luc. VII 491 romana, ramano, el. in
+Maec. 1 105 argo saxa, arga saxo, 95 odorata, adorato, qu. x 294
+uerginia, uirginea, Sen. Herc. Oet. 496 facilis in species, faciles
+inspicies. With further change: Lucr. VI 339 plagis, gladis, 1122
+qua graditur, quadragitas, Verg. Aen. I 264 contundet, contendunt,
+Ouid. met. VII 580 caeli, laeti, VIII 588 resoluit, reuulsit, XI 687
+tetendi, tenenti, fast. V 507 exsuscitat, excussit ab, ex Pont. II 10
+43 absim, ipsam, Prop. II 21 11 quondam, quando, Germ. phaon.
+83 pondus, pandos, Luc. VII 509 torrente, terrore, 645 ceruice, uertice,
+Stat. Theb. XI 588 effossae, offensae, silu. V 3 288 porta, parte, Sen.
+Herc. Oet. 1790 caeperit, partem, Oct. 731 crispinus, pristinus,
+Phaed. 740 porriyit, corripit.
+
+Rearrangement of four or more letters : Prop. 111 5 24 et nigras,
+integras, IV 10 37 tolumm', telinum, Plaut. rud. 927 gripe, piore,
+true. 730 saluum, lausum, Lucr. I 708 (Auien. Arat. 1003) putarunt,
+putantur, Ouid. met. VI 407 (fast. III 841) paternis, parentis, fast.
+11 663 thyreatida, thyaterida, ex Pont. III 3 102 (Stat. Theb. I 340)
+
+ASTRONOMICON I lix
+
+serpit, repsit, her. XVIII 15 felix, flexi, Sen. Phoen. 195 ipse eui, ipsi
+ceu, Herc. Oet. 49 nemo, omne, Auien. Arat- 136 indeque, denique,
+Cic. pro clu. 16 namque, nequam, Ouid. met. 11 485 tamen, manet,
+her. IX 20 twtpis, stupri, Prop. II 34 29 crethei, erechti, III 20 tit.
+contemptore, comptentore, schol. ad Pers. II 72 walerio, aurelio, Liu.
+XXXIV 3 1 auimo, omma, Stat. Theb. X. 305 ial'menus, alinemus,
+Ouid. Ib. 348 tisameni, tesimeni, trist. I 1 83 (met. VIII 276, ex
+Pout. Iv 14 32) arqolica, aqrieola. With further change: Mart. V
+37 7 mine, niqra, Sen. Oed. 130 septem, semper, Ag. 111 uidua, iuncta,
+Ouid. met. VIII 301 praestantes, spectantes, x111 122 relatis, lacertis,
+XIV 233 lami, imas, 850 priscum, positum, XV 804 aeneaden, tamdem,
+trist. IV 10 130 mom'ar, maior, met. III 235 anticipata, praeamata,
+XIII 624 patrem, templa, Catull. 22 5 palimpsesto, palmisepto, Mart.
+XI 99 5 gemim, maqni, Stat. Aeh. I 344 therapnis, pharetris, Il.
+
+Lat. 430 maeoniam, meridiem, qu. VIII 175 sandapilam, sar- '
+
+dammum, Auien. Arat. 1728 procumbentia, cqpum hretia, Amm.
+Marc. XXVII 6 12 salutem, latus, Liu. XXVI 31 3 a p. ro. si, portas,
+Sen. de clem. I 12 cum quaeremus, consequemur, Cic. pro clu. 47
+&Hyantia diqnitate, de dom. 23 uisceribus aerari, ui caesaris rebus.
+
+Such transpositions occur in the texts of all authors, and
+Manilius is no exception: II 182 ueris, uires, 587 reum sponsor,
+rerum sponso, 932 suas aqitat, sua fatigat, 111 272 grauidus, gradibus,
+544 m'ces, ciues, IV 282 aqilem, caliqiroe, 531 exustus, exsutus,
+551 regentur, yerentur, 591 eurus, uerus, 662 pestis, pieces, 668
+cercopum, cecropum, cecoprum, 677 tanaim, tantam, 7 48 dorsumq.
+leuari, dorsum lequari, 903 secessit, sic esset, V 143 eduntur,
+eduezmt, 326 oeagrius, oegraius, 425 diducet, dicutet, 729 stipatum,
+spatium. On these observations I have acted in correcting I 84,
+88, 214, 277, 285, 344, 408, 517, 599.
+
+I now come to another method of correction, which I have
+employed at I 72, 145, 311, 331, 455, 530, 637; a method
+demanded by the complications which ensue, in the text of poets,
+upon corruptions which destroy the metre. When a word has
+fallen out and left the verse defective, the scribes insert another
+word in the gap ; and when a word has lost its metrical form and
+brought the verse to a standstill, the scribes set it going again by
+a change of order.
+
+In Ouid. met. VI 376 the valuable codex Laurentianus has
+these words,
+
+quamuis sint sub aqua, linguis maledicere temptant.
+
+1x M. MAN ILII
+
+If the other MSS agreed with it, this reading would now stand in
+the modern editions of Ovid. Heinsius and Bentley would
+instantly have perceived that this superﬂuous and pointless linquis
+was not Ovid’s, and they would both have conjectured
+
+quamuis sint sub aqua, <sub aqua> maledicere temptant;
+
+but Merkel would have ejected the emendation from the text, and
+Merkel’s followers would be stoutly defending the corruption in
+this year 1903. It happens however that the true reading is pre-
+served in the better MSS Marc. and N cap. ; and for that reason, not
+because it is true, it holds possession. ‚
+
+But in trist. I 11 11 sq. it is not one MS but the MSS in general
+which give
+
+seu stupor huic studio sine est insania nomen,
+omnis ab hac cura mens releuata mea est.
+
+Here, though the aimless change from ‘huic studio’ to ‘hac
+cura’ suggests that something has gone wrong, the suspicion is
+fainter, and the true reading ,might never have been recovered
+were it not preserved elsewhere, to wit in C.I.L. VI 9632
+
+seu stupor est huic studio siue est insania nomen,
+omnis ab hac cura cura leuata mea est.
+
+This is Ovid all over, rem. 169 sq. ‘rura quoque oblectant
+animos studiumque colendi: | quaelibet huic curae cedere cura potest,’
+484 ‘et posita est cum cum repulsa noua.’ But Ovid’s editors will
+not accept it, because to do so would involve recognising that all
+the MSS, not only some of them, are deeply interpolated; and to
+recognise this would cause them discomfort. So they will deny to
+Ovid the aid which fortune has furnished him against his scribes,
+and will defend the corrupt reading with the babble which we
+have heard so often already that we can predict it before they have
+time to utter it afresh : ‘ an inscription (now no longer extant) which
+does not profess to quote Ovid’s words, and which gives the hexa-
+meter in an unmetrical form, is not an authority to be set against
+the consenting testimony of the MSS. Will it be proposed to
+substitute for art. I 47 5 wid maqis est saxo durum the reading given
+in O.1.L. Iv 1895 quid pote tan durum saxso?’ It is not because
+cura leuata has been found in an inscription that it ought to stand
+in the text, but because it is better and more Ovidian than the
+MS reading, because it perfectly accounts for that reading, and
+because, in addition to this, it has been found in an inscription.
+
+ASTRONOMICON I lxi
+At her. XI] 29 P has rightly
+
+accipit hospitio iuuenes Aeeta Pelasgos.
+
+But many MSS spell the king’s name oeta and destroy the verse ; so
+G repairs it thus:
+
+accipit hospitio-iuuenes pater Oeta. Pelasgos.
+In her. XIV 91 only a few MSS have retained what the author wrote,
+conatoque queri mugitus edidit ore.
+
+The omission of -que before que- left an unmetrical conato queri,
+which seems to have been the original reading of P: most MSS
+have the conjectural emendation et comta queri. In her. XV 69
+most MSS rightly read
+
+et tamquam desint quae me sine ﬁne fatigent,
+
+but in one copy fine dropped out after sine, and hence the Franco-
+furtanus, usually the most faithful, has manufactured this precious
+conjecture:
+
+et tamquam desit quae me hac sine cura fatiget.
+
+At trist. 111 5 39 sq. the MSS presented
+
+quae ducis Emathii fuerit clementia, Porus
+praeclarique docent funeris exequiae.
+
+For praeclari Heinsius conjectured Darei: this would be ﬁrst mis-
+taken for clari and then stretched to the right length by preﬁxing
+prae. The nineteenth century brought to light the oldest MS L,
+and in it stands the conjecture of Heinsius.
+
+In trist. V 10 23,
+
+est igitur rarus qui iam colere audeat,
+the object of ‘ colere ’ is missing. Heinsius restored it:
+est igitur rarus <rus> qui colere audeat,
+
+whence first arose rams qui, and then iam to plump out the verse.
+
+I will take from the tristia one more example, in which detection
+of the fraud is made easier because the MSS do not conspire to
+tell the same lie, but impair their credit by contradicting one
+another. v 7 65 sq.
+
+sic animum tempusque traho - - o reduco
+a contemplatu summoueoque mali.
+
+lxii M. MAN ILII
+
+meumque the best MSS, me sicque others, meque ipse others again.
+meque ipse is faultless, but if it had been the original the other two
+readings could hardly have come into existence. me sieque, apart
+from its clumsiness, is shown to be corrupt by the observations of
+Madvig de ﬁn. v 40 and Haupt opusc. III 510; mecumque, which
+has most authority, is evidently impossible. All three have a
+common element, the letters meque, and all are attempts to make
+
+· metre of a defective archetype: Ovid wrote
+
+sic animum tempusque traho me<me> que reduco
+a contemplatu summoueoque mali,
+
+as he wrote in art. II 689 sq. ‘me uoces audire iuuat sua gaudia
+fassas ; | atque, morer meme sustineamque, roget,’1 and as Silius
+wrote in 1x 650 sq. ‘ comprimit ensem | nescio qui deus et meme ad
+
+grauiora reseruat.’
+At Lucr. 111 978 the Leyden MSS have
+
+atque ea nimirum quaecumque Acherunte profundo.
+
+The loss of e after e changed this to atque animirum‚ which looked
+like atqve animarum 3 so the chief Italian us has the metrical
+interpolation
+atque animarum etiam quaecumque Acherunte profundo.
+In moret. 34 most MSS give rightly
+pectora lata, iacens mammis, compressior aluo.
+
+ia was lost after ta and left lata cens, whence two uss have devised
+lata germs. At culex 312 the right reading appears in I‘ and V
+Ida faces altrix cupidis praebebat alumnis,
+but the initial letter was lost, and the best and oldest MS B has
+expanded da to daque. At 226 sq. B and I‘ give
+in uanas abiere uices, et iure recessit
+Iustitia,
+
+where iure is a. mistake for rure. In one copy the syllable re was
+written once for twice, iu recessit, and V has developed iu into uita.
+The true reading of Luc. I 295
+
+inmineat foribus pronusque repagula laxet
+is preserved in most MSS ; but the haplography repaqulaxet has given
+
+¹ Mr Ehwald prints this verse as ‘atque, morer, me, me sustineamque,
+roget' : such notions of the Ovidian pentameter has the modern Ovidian critic.
+
+ASTRONOMICON I lxiii
+
+occasion in some for the interpolation pulset. At Stat. Theb.
+XII 72 sq. the Puteaneus retains
+
+o nisi magnanimae nimius te laudis inisset
+ardor,
+
+but because the syllable nim came twice over, maqmnirtmnhm'as
+shrank to mammutius, and other MSS repair the loss with guesswork
+
+o nisi magnanimus tantae te laudis inisset.
+At Mart. x 14 7 sq. one family of MSS has the true reading
+
+quando breuis gelidae missa est toga tempore brumae?
+argenti uenit quando selibra mihi 1
+
+but uenit was absorbed by -qenti, and the other family borrowed
+missa from overhead to complete a pentameter :
+
+argenti quando missa selibra mihi est?
+Again at VI 32 4 one family keeps
+et fodit certa pectora tota manu,
+
+but in the others tota has been swallowed by -tora, and nuda takes
+its place. And again at V 22 7,
+
+uixque datur longas mulorum rumpere mandras,
+
+this reading of one family, having shrunk to malorumve, becomes
+in the other family mulorum uincere. And yet again at XII 61 5,
+where two families agree in the right reading
+
+in tauros Libyci ruunt leones,
+
+ruunt was mistaken for want, as raim for minas in Aetn. 139, and
+the third family comes to the aid of the verse with the interpola-
+tion fro-munt.
+
+This is just what I suppose to have happened in Maui]. v 45..
+The man born under the sign Argo will become a seafarer :
+
+rector erit puppis clauoque immobilis haerens
+
+mutabit pelago terras uentisque sequetur
+
+fortunam totumque uolet transnare profundum
+
+classibus atque alios menses altumque uidere
+
+Phasin et in cautes Tiphyn superare trementem. 45-
+
+‘ trementem in cautes’ has no sense; ‘superare Tiphyn in cautes ’
+
+lxiv M. MANILII
+
+may perhaps be made to yield one, but Tiphys was no trembler.
+tre-mmtem is a metrical expansion of montem, that is
+
+in cautes Tiphyn superare ruentem.
+
+‘ruentem in cautes’: ruit is the verb used by Valerius Flaccus in
+describing the exploit at IV 676, ‘ praecepsque fragores | per medios
+ruit.’ In G the corruption has gone further; ent was lost in the
+sequence inem-entem, the remaining tremem looked like t‘remem,
+and accordingly biremem stands in the text of this much interpo-
+lated MS. Mr Vollmer in Berl. Phil. Woch. xx p. 1292, to extol
+G at the expense of Manilius, says ‘zweifellos ist zu bessem in
+caules Tiphyn superare triremi! Why, in fortune’s own‘ name,
+should a man chase fortune in a trireme? and why, if he did so,
+should his strange whim be mentioned at this particular point 'I
+In Verg. Aen. Ix 782 the MSS Pyc read
+
+quos alios muros quaeue ultra moenia habetis?
+
+mu dwindled to eu and left gmeultm; MR prop the verse with
+quae &zm ultra, and many editors inconsiderately adopt the interpo-
+lation. In Aen. x 48 PM have
+
+Aeneas sane ignotis iactetur in undis.
+
+The letters of sane are those of -neas and were consequently
+omitted, whereupon R ﬁlls the space with procul. At verse 7 05 of
+the same book occurs a famous instance of such interpolation in the
+Virgilian archetype. Bentley restored what the sense demands,
+
+nec non Euanthen Phrygium Paridisque Mimanta
+aequalem comitemque, una quem nocte Theano
+
+in lucem genitori Amyco dedit et face praegnas
+
+Cisseis regina Parin: <Paris> urbe paterna 705
+occubat, ignarum Laurens habet ora Mimanta.
+
+But Paris was absorbed by Parin, and Virgil’s MSS have erect in
+its place.
+The interpolation in Aen. 1x 579 is still undetected. The
+MSS have
+sternit . . .
+
+Priuernum Capys. hunc primo leuis hasta Themillae
+
+strinxerat : ille manum proiecto tegmine demens
+
+ad uolnus tulit 3 ergo alis adlapsa sagitta,
+
+et laeuo adﬁxa est lateri manus, abditaque intus 579
+
+spiramenta animae letali uolnere rupit.
+
+ASTRONOMICON I lxv
+
+adfixa Py, but infixa MRbc: Seruius’ lemma. has adfioea, but his
+quotation of Iv 689 shows that he read infixa. The spear of
+Themillas had grazed the skin of Priuernas, whereupon he like a
+fool dropped his shield and clapped his hand on the place. Ac-
+cordingly the arrow of Capys came winging up, and . . . his hand
+was pinned to his left side, and . . . driven deep within inﬂicted a
+mortal wound on the lungs. What a narrative! To begin with,
+the left side is the very last place where a man who was carrying a
+shield would be grazed by a spear: consequently it is not the place
+on which Priuernus clapped his hand, and consequently, when
+Capys’ arrow struck his left side, it found no hand there to pin.
+And the thing which pierced Priuernus’ lungs and wounded him to
+death must certainly have been Capys’ arrow; whereas the text
+says it was his own hand. Now where all MSS give nonsense and
+are therefore corrupt, those MSS are to be preferred which give the
+worst nonsense, because they are likely to be the least interpolated ,-
+and here infixa is seen by its naked absurdity to be a remnant of
+the truth, and adfixa to be a conjectural emendation. adfixa was
+invented to suit the manus which is now the subject of the clause,
+infixa refers to the sagitta which ought to be its subject: manus is a
+metrical stopgap like creat in x 705 and prowl in x 483 and the
+metrical defect which provoked it arose in this verse as in those
+from the absorption of like by like:
+
+ergo alis adlapsa sagitta
+et laeuo inﬁxa est <alte> lateri abditaque intus
+spiramenta animae letali uolnere rupit.
+
+alte is easily confused with late, as Aen. I 427 alta MPR, lata F, IX
+151 ‘summae custodibus arcis’ MP, late (i.e. altae) FR, Liu. XXII
+28 14 latera, altera; then latalaum· shrank to lateri, and the
+collapsing verse was distended with manus. For the elision see
+VIII 96 ‘ placido aequore.’
+
+Juvenal at XIII 179 is preaching against revenge, and says
+that it is both unsatisfying and odious.
+
+‘ nullane peiuri capitis fraudisque nefandae
+poena erit'l’ abreptum crede hune grauiore catena
+protinus et nostro (quid plus uelit ira 2) necari
+arbitrio: manet illa tamen iactura, nec umquam
+depositum tibi sospes erit, sed corpore trunco
+inuidiosa dabit minimus solacia sanguis. 179
+e
+
+lxvi M. MAN ILII
+
+There is not in the Latin language a more inapposite adjective
+than minimus. You put a man to death for cheating you: suppose,
+a foolish supposition, that the man has little blood in his veins,
+or suppose that you, in putting him to death, shed little of
+that blood: what then? How does that either diminish or
+increase the satisfaction which you experience? How does it
+either increase or diminish the hatred which you incur? No
+answer. And this ridiculous minimus usurps the place of an
+absent adverb which the sense requires and the reader must
+mentally supply. The scholiast says nothing about minimus,
+though it is the word which most invites a scholium, but he says
+‘id est, etiamsi decolletur, nihil inde lucri habebis nisi inuidiosam
+defensionem! Just so:
+
+inuidiosa dabit <solum> solacia sanguis.
+
+The scribe passed from sol- to sol-, and his successor ﬁlled the space
+with the ﬁrst word that occurred to him, perhaps remembering
+X 217 ‘minimus gelido iam in corpore sanquis? It is true that
+‘solum solacia,’ being a conjecture, will sound ill to many who
+never stumble at Verg. Aen. 111 183 ‘casus Cassandra canebat.’
+
+These are verses where the loss of words or syllables has been
+made good by stopgaps. Now come others where the metro,
+spoilt by corruption, has been mended by transposition.
+
+The case of qu. VIII 148 is now notorious: the true reading
+
+ipse rotam adstringit sufflamine mulio consul
+
+is preserved in the ﬂorilegium Sangallense; mulio became multo,
+and the cod. Burn. 192 has sub flamine multo consul; the rest
+arrange the unmetrical words in metrical order, the majority giving
+multo sufflamine consul, the minority consul sufflamine multo. In
+Ouid. fast. I 245 the second-best MS reads rightly
+
+arx mea collis erat, quem uolgus nomine nostro
+nuncupat.
+
+But a: and a are much confused, so am became ara and upset the
+verse, and the best MS has the interpolation ara mea est colli. At
+trist. V 5 55 there has been bolder work : the best MSS retain
+
+cum Pelia genitae tot sint, cur nobilis una. est?
+
+but nobilis was mistaken for nobis, and the majority in lieu of
+
+ASTRONOMICON I lxvii
+
+nobilis um est present coqnita nobis. At Stat. Theb. VIII 459 the
+truth is preserved in the best MS
+
+Pallas huic praesens, illum Tirynthius implet.
+
+But haic was corrupted by illum to the monosyllabic hum, and most
+MSS restore the ruined metre by transposing hwnc Pallas. The
+siluae unluckily are handed down to us in no good MS, and when
+
+we ﬁnd at silu. I 1 27 sq.
+te signa ferente
+et minor in leges iret gener et Cato castris
+
+we have nothing to help us but our own wits. The sense is ‘if
+you, Domitian, had been in Caesar’s place, both Pompey and Cato
+would have surrendered their independence.’ castris is a superﬂuity
+and an encumbrance, and in leges lacks an epithet, either tuas or
+Caesaris. The verse is a. rearrangement of these unmetrical words
+
+et minor in leges gener et Cato castris iret,
+
+and castris is casaris (Ouid, her. XIX 157 msera P for castra), and
+caseris is cesaris: ‘tu si dux fuisses, et Pompeius, Magnus ille
+quidem sed socero minor (Ouid. fast. I 603 sq. ‘Magne, tuum
+nomen rerum est mensura tuarum, I sed qui te uicit nomine maior
+erat’: Mr Vollmer only cites passages which are nothing to the
+point), et Cato in leges irent Caesarianas’: see Mart. XI 5 9-14
+‘te (Nerua) duce gaudebit Brutus . . . et te . . . Magnus amabit
+
+. ipse quoque infernis reuocatus Ditis ab umbris I si Cato
+reddatur, Caesarianus erit.’ After I had been put to the trouble
+of making this correction I found that it had been made long ago
+by Scriuerius and neglected by everybody since, even Gronouius
+and Markland.
+
+There are several instances of such interpolation within the four
+hundred verses of the culex. 192
+
+et ualidum dextra detraxit ab arbore truncum
+stands unaltered in I‘ ; but ab swallowed arb- and left detraxit ab ore
+
+truncum, which B and V have reduced to metre by the transposition
+truncum delraoeit ab ore. 210
+
+‘ quis ' inquit ‘ meritis ad quae delatus acerbas
+cogor adire uices.’
+
+This is preserved by no MS, but I‘ has quid inquit3 B and V for I
+metre’s sake transpose inquit quid. 357
+
+omnis in aequoreo ﬂuitat iam naufraga fluctu.
+
+lxviii M. MAN ILII
+
+V and I‘ have this order 3 but flwitat was corrupted to fluctuat and
+B rearranges the words as fluctuat omnis in aequoreo. 366
+
+cui cessit Lydi timefacta potentia regis.
+
+1" has kept this reading with no error but a false division of words
+{idithim sacta. But lv'ditime or loeditime looked like leqitime, and
+since this was unmetrical B and V have changed the order to
+legitime cessit cm' facta.
+Verg. Aen. Ix 402 sq. now stand in MP as follows:
+ocius adducto torquens hastile lacerto
+suspiciens altam lunam et sic uoce precatur.
+
+RV have altam ad for altam, but Virgil’s construction is the
+accusative, Aen. x 898 sq., XII 196, buc. Ix 46, georg. 1 375 sq.
+The sentence has no structure unless et is removed or some other
+change is made. Suppose that once upon a time the text was
+
+suspicit altam ens lunam et sic uoce precatur,
+this would become suspiciens altam in a trice. But it should be
+suspicit altam <am>ens lunam et sic uoce precatur.
+
+See 424 sq. ‘ tum uero exterritus, amens, | conclamat Nisus,’ II 7 45
+‘ quem non incusaui amem hominumque deorumque 't'
+In Lucr. VI 1135 sq. the MSS offer
+
+an caelum nobis uitro natura corumptum
+deferat aut aliquid quo non consueuimus uti.
+
+m'tro was early and easily corrected to ultro, but wrwnptum still
+remains a stumbling-block. On the one hand it seems impossible,
+and certainly wants better evidence than is forthcoming, that
+Lucretius should have said mptum or Lucilius cdomqot05 but on the
+other hand Lachmann's 60th could hardly have been altered thus,
+and Isidore attests the participle of ‘corrumpo' with his ‘aer
+Wm ex aliis caeli partibus ueniens.’ Consider corumptwm and
+ail/r0 together, and the corruption, or corumption, is explained.
+What the uss present is a. rearrangement of words designed to
+better the metre of this:
+
+an caelum nobis corruptum deferat uitro
+natura aut aliquid quo non consueuimus uti.
+
+deserat witro could be scanned by nobody: natum corruption could
+be scanned, in the ages of faith, by many a humble Christian; for
+
+ASTRONOMICON I lxix
+
+true religion enabled men not only to defy tortures but to shorten
+the ﬁrst syllables of colloco and parricida, Muell. de r. m. ed. 2
+pp. 447 sq.
+
+VII
+
+The poet’s name is not preserved in the mss of the family a.
+The heading of G is now erased and Malius poeta written over it by
+a hand of the 15th or 16th century; it once ﬁlled two lines
+and was presumably the same which now stands in L and Cus.,
+Arati philosophi astronomiam liber primus incipit prelibalio. None of
+these three MSS has any other inscriptions or subscriptions. Poggio,
+in the letter announcing to Barbara his discovery of B and quoted
+on p. viii, names the author M. Manilium astronmnicum. The ﬁrst
+page of M is missing, but its inscription can probably be recovered
+from U: M. Manilii astrmimniccm liber primus foeliciter incipit.
+M elsewhere gives the name as follows: after book I M. Manili,
+after II M. Manlii Boeni, after III M. Milnili. V has M. Mallii Boeni
+at the end of II and M. Mallii at the end of III; Vrb. 668 is
+inscribed Marci Manilii Boeui astronomici liber primus incipit. Gerbert,
+who reigned as Pope Sylvester II from 999 to 1003, writes in
+August 988 in epist. 130 ed. Havet ‘fac ut mihi scribantur
+M. Manlius de astrologia, Victorius de rhetorica, Demosthenis ophthal-
+micus’: the author so styled however may be Anicius Manlius
+Torquatus Seuerinus Boethius, and Gerbert in epist. 8 mentions
+‘ VIII uolumina Boetii de astrologia.’
+
+The date of the poem has been canvassed with merciless pro-
+lixity for the last four-and-twenty years, but the pertinent facts are
+few. That book I was written later than 9 A.D. is proved by the
+mention of Varus’ disaster in u. 899 ; that it was written earlier
+than the August of 14 AD. is proved by two passages which show
+Augustus to be living, 384 sq. and 922 sqq. : one passage, 799—801,
+which in its present form assumes Augustus to be dead, contains
+an absurdity (caelum repleuit) and must therefore be corrected; and
+to correct it is easy. That Augustus was still alive while book 11
+was writing is proved by 507 sqq. ‘ Capricornus in ipsum I
+conuertit uisus, quid enim mirabitur ille [ mains, in Augusti felix
+cum fulserit ortuml’: were Augustus dead and Tiberius on the
+
+e 2
+
+lxx M. MAN ILII
+
+throne, the instant answer to this question would be ‘id sidus, quod
+in Tiberii ortum fulsit ’ ; for reigning emperors were always greater
+than their predecessors. Book III contains nothing which bears
+on the point. In book Iv (whose last verses 933—5, though eternally
+cited and debated, prove nothing either way) Capricorn is fallen
+from his high estate : at 243-58 we read that he engenders miners
+and smiths and clothiers, and at 568—70 that his 30th point
+engenders sailors; but of kings and kesars not a word. Worse
+yet, in 257 sq. we have ‘Veneri mixto cum crimine seruit I pars
+prior, at melior iuncta sub priste senecta est’: these words, with
+their spice of truth and personality, were hardly written of
+Augustus’ star in Augustus’ lifetime. Instead of Capricorn it is
+Libra that now assumes the primacy of heaven, 548 sqq. ‘felix
+aequato genitus sub pondere Librae. | iudex examen sistet uitaeque
+necisque | imponetque iugum terris legesque rogabit. I illum urbes
+et regna trement nutuque regentur | unius, et caeli post terras iura
+manebunt,’ 773 sqq. ‘Hesperiam sua Libra tenet, qua condita
+Rome. | orbis et imperio retinet discrimina rerum | lancibus et
+positis gentes tollitque premitque ; | qua genitus Caesar melius
+nunc condidit urbem I et propriis frenat pendentem nutibus orbem.’
+Now not only Manil. II 507 sqq. quoted above but also Germ.
+phaen. 558 sqq. ‘hic (Capricornus), Auguste, tuum genitali corpore
+numen | attonitas inter gentis patriamque pauentem I in caelum
+tulit et maternis reddidit astris,’ and Suet. Aug. 94 ‘tantam mox
+ﬁduciam fati Augustus habuit, ut thema suum uulgauerit num-
+mumque argenteum nota sideris Capricorni, quo natus est, per-
+cusserit,’ and the many coins stamped with Augustus’ head on the
+one side and Capricorn on the other, are clear proofs that Capricorn
+was Augustus’ star: to show that Libra was his star there is
+nothing ; 1 but to show that Libra was the star of Tiberius there is
+
+² When Virgil in georg. 1 32-5 invites Augustus to a place in the zodiac
+between Virgo and Scorpius (where Libra was inserted by those astronomers
+who gave the zodiac twelve signs instead of eleven), he does so because there is
+no room anywhere else; and the words ‘Libram qui Caesar habet’ de x11
+signis 22 (P. L. M. Baehr. N p. 144) are an allusion to this passage of Virgil.
+It is true that Augustus, if Suetonius Aug. 5 is right in saying ‘na'tus est
+Augustus M. Tullio Cicerone C. Antonio coss. Ix kal. Oct. paulo ante solis
+exontum,' was most likely born under Libra; for Sultan R'om. chron. p. 54
+observes that in 63 B. C. the calendar would seem to have tallied pretty nearly
+with the Julian, since the eclipse of the moon mentioned by Cicero de cons.
+11 17-9 as taking place about the time of the seriae Latinae in that year must
+be the eclipse which fell at half-past four in the morning of the 3rd of May by
+our reckoning. If so, it is possible to hold that Capricorn was not the star
+
+ASTRONOMICON I lxxi
+
+one piece of evidence. A. von Sallet beitrage z. gesch. u. numism.
+d. kﬁnige des Cimmer. Bosp. u. d. Pout. p. 69, W. von Voigt
+Philologus vol. 58 p. 175, and Th. Reinaoh l’histoire par les
+monnaies p. 143 describe a silver coin of Pythodoris queen of
+Pontus struck in the year 60 of the Pontic era, whose relation to
+the Varronian is not yet ascertained, and showing Tiberius’ head
+on the obverse and the effigy of Libra on the reverse, just as
+other coins, and among them one struck by Pythodoris in the
+same year, show Augustus and Capricorn. This brings us to
+another debated passage of book Iv, the verses 7 64 sqq. ‘ Rhodes,
+hospitium recturi principis orbem, I tumque domus uere Solis,
+cui tota sacrata est, | cum caperet lumen magni sub Caesare
+mundi,’ in which the last words are generally supposed to mean
+a luminary second only to the reigning emperor Augustus, as
+Velleius II 99 in relating Tiberius’ withdrawal to Rhodes calls
+him ‘uere alterum rei publicae lumen et caput! But if Tiberius
+was the second light of heaven he resembled the Moon, and did
+not at all resemble the Sun, which is the ﬁrst. The words are
+capable of quite another sense, and ‘lumen magni sub Caesars
+mundi’ may mean ‘the Sun, in the person of him who is now
+emperor,’ to wit Tiberius: so II 3 ‘uictamque sub Hectore
+Troiam,' 16 ‘sub fratre uiri nomen,’ 621 sqq. ‘plus . . . in
+duplici . . . roboris . . . quam te, Nemeaee, sub uno,’ Iv 24 sq.
+‘Troia sub uno | non euersa uiro,’ v 381 ‘ipse deum Cycnus
+condit uocemque sub illo.’ It appears then that book Iv was
+of his birth but of his conception; for it may perhaps be gathered from
+Censorinus de die nat. 8 4 that the star of a man's conception was not, like
+that of his birth, the star rising at that moment (the moment of conception is
+seldom discoverable) upon the horoscope or eastern point, but the star in which
+the sun was then situated, ‘ quo tempore partus concipitur, sol in aliquo signo
+sit necesse est, et in aliqua eius particula, quem locum conceptionis proprie
+sppellant’ ; and nine months before Ix kal. Oct. the sun would be situated in
+Capricorn. But Suetonius expressly says ‘sideris Cspricorni, quo natus est,’
+not conceptus, and he thus contradicts in c. 94 what he asserts in c. 5; for if
+Augustus' birth took place under Capricorn on [x kal. Oct. it took place not
+paulo ante solie exortum but circa meridiem.
+
+Icannot quit the subject without recommending chronologers and unmis-
+matists to study astrology before they write about it. Such a statement as
+‘lag Octavian's Konzeption im Steinbock, so fault seine Geburt in die Wage' is
+a pure mm sequitur, though made by a very learned man; and ‘ Horaz war vx
+Id. Dec. im Schiitzen geboren' is an assertion of which I can only say that the
+odds against its truth are 11 to 1. But who can blame these scholars, when an
+editor of Manilius, who might be expected to know the rudiments of his system,
+
+enunciates the similar ﬁction ‘Tiberii conceptus in Pisces, in Sagittarium
+genitura incidit ¹ i
+
+lxxii M. MANILII
+
+written after Augustus’ death. Book V, like book III, contains
+no indication of its date.
+
+It seems to follow that the poem was not published as a
+ﬁnished whole by Manilius himself. Whether he published it by
+instalments or whether he never published it at all is a question
+which I see no means of solving. That our ﬁve books form only
+a portion of the whole design is plain enough. The account of
+the planets, promised at II 965 and elsewhere, does not exist. At
+V 28, speaking of constellations outside the zodiac, he proposes to
+declare what effects they produce at their setting, ‘ cum merguntur
+in undas’: the proper place for this information is in the gap
+between V 709 and 710, where perhaps he gave it and it was
+lost. Then, if the non-zodiacal signs produce effects at their
+setting, so assuredly must the zodiacal, whose importance is so ¹
+far superior; yet of this we are told nothing. And after all
+these several pieces of instruction, we shall still require the
+combination and co-ordination which he promises in II 750—87
+and at III 587 sq. ‘mox ueniet mixtura suis cum uiribus
+omnis, | cum bene materies steterit praecognita rerum’; for I
+defy anyone to cast a nativity from the information furnished in
+the poem as it stands. Were the books once eight in number?
+Was Gerbert’s ‘M. Manlius de astrologia’ and his ‘VIII uolumina
+Boetii de astrologia’ the complete work of the poet designated in
+M by the name M. Manlii Boeni'l
+
+This First Book of Manilius, his Sphaera, being purely
+astronomical and complete in itself, can be detached without injury
+from the astrological portion of the poem. It was my ﬁrst intention
+to comment only on those passages where I was proposing new
+explanations or conjectures or defences of the text. Thence I was
+drawn on to signify my own judgment in places where former critics
+and interpreters were at variance, and to correct many misappre-
+hensions which I found revealed in the paraphrases of Fayus and
+Pingré or lurking under the notes of other editors. These additions
+so swelled the bulk of what I had written that I decided to take
+one step more and to equip the text with a regular commentary.
+This commentary is designed to treat of two matters only: what
+Manilius wrote, and what he meant. From the illustration of his
+phraseology and vocabulary, as distinct from the elucidation of his
+language, I have purposely abstained ; not that I despise this
+industry, but because life is short, and I have chosen other business
+
+ASTRONOMIOON I lxxiii
+
+which is more difficult and more important. Therefore at u. 1, to
+begin at the beginning, I do not quote Verg. Aen. Iv 519 sq.
+‘conscia fati | sidera' nor Auson. 163 17 sq. ‘tu caeli numeros et
+wnscia sidera fati 1 callebas.’ Scaliger laid a foundation in this
+department, Mr A. Cramer has made a considerable collection of
+parallel phrases on pp. 61—89 of his treatise de Manilii elocutione
+1882, and Manilius has now in Messrs E. Mueller and J. Moeller
+a pair of diligent and well-read students who may be expected to
+continue the work. There are other industries, now much in
+vogue, from which I have abstained because I do despise them.
+The sacred name of Posidonius, if I remember right, is not once
+mentioned in my notes; and when I come to II 96 I shall not
+pretend that Manilius, or Catullus either, imbibed from the
+manuals of that Rhodian sage the daring theory that the moon’s
+light is borrowed. If anyone is enamoured of speculations for
+which no material exists, he is welcome to pursue them, atque
+idem iungat uolpes et mulgeat hircos ; but the lot is fallen unto
+me in a fair ground, I have a goodly heritage, and I leave the
+sands of the sea to be ploughed by others.
+
+It is no reproach to Scaliger and Bentley that they, amidst the
+dust of their labours and the blaze of their discoveries, left much
+undone which was easy to do and overlooked many things which
+were plain to see. But it is a heavy reproach to the other editors,
+whose discoveries are not dazzling and whose labours are not
+Titanic, that they have let slip so many obvious and trivial
+blunders whose detection required neither genius nor effort but only
+common attention and ordinary acquaintance with Latin. It is not
+decent that I, in the 20th century after Christ, should have to
+remark that Pyrrhus (I 786) was not defeated by Papirius ; that
+‘intra Capricorni sidus et mundum imo axe subnixum’ (I 375 sq.)
+is not Latin for inter; and that Plzryxaei (111 304) is not the way to
+spell le‘izei.1 But the strangest and most injurious of all these
+elementary mistakes is that which vitiates the numerals in IV 443-
+97 ; and since ignorance on this head is not conﬁned to editors of
+Manilius but crops up in all texts of Ovid at fast. III 124 and in
+many at her. XI 46, I will here transcribe my note on W 451.
+
+Tauri nona mala est, similis quoi tertia pars est
+post decimam, nec non decimae pars septima iuncta,
+
+¹ Similar blunders may be found persisting in the text of less neglected
+authors. Editors of Plato still print zpo‘c'vov for ‹polvou at symp. 211 A and Pam.
+157 B, and editors of Sophocles let?» for M6! at Aiax 1100.
+
+lxxiv M. MAN ILII
+
+bisque undena notans et bis duodena nocentes, 451
+quaeque decem trisque ingeminat, fraudatque duobus
+triginta numeros, et tu, tricensima summa.
+
+4⁶1 uotans', nocens libri.. qui sectum dicam ut nec Scaliger nec Bentleius, nam
+ceteros uix numero, ne externa quidem huius uersiculi deformitate, quae in illis
+nocem nocentes summa est, admoniti sint ut de Latini sermonis legibus aliquid
+cogitarent neue neutralia pro femininis, distributiua pro ordinalibus habereut?
+nam bis undena, bis duodena uolunt esse pars duoetuieensi‘ma, pars uicensima
+quarta. atqui notissimum esse debebat pars bis undena Latine non partem
+duoetuicensimam significare sed uiginti duas partes ; uelut Verg. Aen. v 120
+terno ordine pro tribus ordinibus positum est, sil. xv 257 ter dena boue pro
+triginta bubus. legitur quidem iu plerisque Ouidii codicibus her. XI 46 iam
+nowiens erat orta soror palchen-ima Phoebi | denaque luciferos luna mouebat
+equos, sed liber optimus Puteaneus nonaque exhibet, Gronouius plenaque
+Bentleius pronaque proposuit, poteras etiam et noua. porro in eiusdem Ouidii
+fastis, 111 124, omnes libri bis quino femina meme parit, sed facili emendatione
+Maduigius adu. crit. 11 p. 106 bis quinto, quemadmodum fest. v1 768 scribitur
+quintus ab extremo mense bis ille dies. primus, quantum obseruaui, barbarum
+hoc loquendi genus inuexit Appuleius, quem de mag. 9 p. 403 bis septeno uere
+pro quarto decimo dixisse metrum demonstrat3 itaque eundem met. 111 19 p.
+208 duodeni laboris Herculei posuisse credibile est, cum duodecimi uellet. item
+Ausonius 369 34 (Peip. p. 97) septeno cum lumina fudit ab astro posuit pro
+septimo, neque intercedo quominus idem metro non cogente 250 1 (Peip. p. 335)
+Iris octono sub consule pro bis octauo scripsisse censeatur, qui uersu tertio desieras
+puer anne puella uideri dicere sustinuerit. sed Nemesianus in cyneg. 123 bina
+lampade non dixit pro altera lampade sed prorsus recte pro duplici, in his, cum
+se Mna formarit lampade Phoebe, id est cum luna bis (non iterum) plena fuerit.
+iu Claud. v1 cons. Hon. 391 centenus consul non magis pro centensimo positum
+est quam 388 sq. centum messibus pro centensima messe ; nedum ut Martialis,
+cum VIII 45 4 amphora centeno concalefacta minor scriberet, centensimo uoluerit.
+hoc autem Manilii uersu, ut uidetur, deceptus Scaliger innocenti poetae non
+minus tribus locis similem soloecismum adfinxit; nam 455 ter quina ec (hoc est
+ter quintae) noxia par est in ter quinae, 461 nec ter quintae clementior usus in
+ter quinae (ita sane G), 478 quae ter quinta notatur in ter quina mutauit:
+successit operi Bentleius et pro bis quinta salubri |' terque caret caelo 465 sq.
+nouauit bis quina. superest igitur ut u. 472 pro quae ter decimam cludit sors
+ultima partem scribatur ter denam et v 365 ter decima sub parce seri inter dena
+et eiusdem libri 490 bis sextamque notat parte-m fluuialis Aquari in bis senam
+mutetur. neque Martialem Hispanum Latine loquentem feremus, sed Iv 57 4
+pro quo te bis decimus ducit ab urbe lapis faciemus bis denus, item bis denae vn
+65 1 pro bis decumae numrantemsriyora brumae; in his autem, 1 15 3 bis iam
+paene iibi consul tricensimus instat, quia tricenus numeri nou admittunt, graue
+mendum subesse dicemus. ne a lapidibus quidem temperabimus, sed C.I.L. VI
+5534 2 pro annus ut accedat, ter mihi quintus erat scribemus quinus. ceterum
+huius uersus Iv 451, qualem eum restitui, sententia haec est: et ea pars, quae
+bis undena notat, et ea, quae bis duodena, nocentes sunt. simili oratioue usus
+est u. 485 uel cum ter dena ﬁgural et 487 decimamque sequens quam tertia signal.
+erat cum conicerem bisque undena nocens et bis duodena recensens, cui
+similia sunt 484 euntque iterum duodena refert, Claud. v1 cons. Hon. 392 his
+armis, qni lustra mihi bis dena recensent.
+
+After these grammatical oversights there is nothing marvellous
+
+ASTRONOMICON I lxxv
+
+in the composure with which editors accept such maunderings as
+II 231 ‘ ambiguus terrae Capricornus, Aquarius undis' (which means
+‘Capricornus, de quo terra, Aquarius, de quo undae ambigunt’), or
+such chaos as III 265-71, where three verses (268—70) describing
+the motions of the planets have found their way by some mischance
+into a passage describing the lengthening and shortening of the
+days, and are serenely rendered by the translators and expounded
+by the commentators as if they belonged to it.
+
+At the end of the volume I have added conjectures on books
+II and III and Iv: my conjectures on book v are printed in the
+Journal of Philology for 1900, vol. XXVII pp. 162-5. Most of my
+corrections of book I were published in 1898 in the same Journal,
+vol. XXVI pp. 60—3.
+
