@@ -78,7 +78,7 @@
       </div>
     </front>
     <body>
-      <div type="edition">
+      <div type="edition" xml:id="book1">
         <head>M. MANILII
           <lb/>ASTRONOMICON
           <lb/>LIBER PRIMVS</head>
