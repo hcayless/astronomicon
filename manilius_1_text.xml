@@ -35,37 +35,37 @@
   <text>
     <front xml:id="front">
       <div type="section" xml:id="preface">
-        <head>Preface</head>
-        <p>General introductory remarks about the edition.</p>
+        <!--<head>Preface</head>-->
+        <!--<p>General introductory remarks about the edition.</p>-->
         <div type="section" xml:id="preface-section-1">
           <!--This is a subsection within the preface. Editors should use
             subsections to organize the content of the edition's preface.-->
         </div>
       </div>
       <div type="section" xml:id="bibliography">
-        <head>Bibliography</head>
+        <!--<head>Bibliography</head>-->
         <!--This is where the bibliography for the edition is listed.-->
-        <div type="section" xml:id="bibliography-manuscripts">
+        <!--<div type="section" xml:id="bibliography-manuscripts">
           <head>Manuscripts</head>
-          <!--Descriptions of manuscripts, using <gi>listWit</gi>.-->
-        </div>
+          
+        </div>-->
         <div type="section" xml:id="bibliography-early-editions">
-          <head>Early Editions</head>
+          <!--<head>Early Editions</head>-->
           <!--Bibliographical details for early editions or editiones vetustiores, using
             <gi>listBibl</gi> with <att>type</att>="editions-witnesses".-->
         </div>
         <div type="section" xml:id="bibliography-modern-editions">
-          <head>Modern Editions</head>
+          <!--<head>Modern Editions</head>-->
           <!--Bibliographical details for modern editions and commentaries, using
             <gi>listBibl</gi> with <att>type</att>="editions-sources".-->
         </div>
         <div type="section" xml:id="bibliography-secondary-sources">
-          <head>Secondary Sources</head>
+          <!--<head>Secondary Sources</head>-->
           <!--Bibliographical details for articles, notes, books, and other sources,
             using <gi>listBibl</gi> with <att>type</att>="secondary-sources".-->
         </div>
         <div type="section" xml:id="bibliography-scholars">
-          <head>List of Scholars Referred to By Name</head>
+          <!--<head>List of Scholars Referred to By Name</head>-->
           <!-- A list of the names of individual scholars referred to by name in the 
             apparatus, if they are not listed elsewhere in the bibliography. -->
         </div>
@@ -75,6 +75,19 @@
         <!--A key to the special sigla and abbreviations used in the edition (drawn
           from the <att>xml:id</att>'s assigned to the various items in the
           bibliography).-->
+        <listWit>
+          <!-- The xml:id definitions should be moved up to the section on MSS -->
+          <witness xml:id="G"><abbr type="siglum">G</abbr> = codex Gemblacensis, Bruxellensis 100012</witness>
+          <witness xml:id="L"><abbr type="siglum">L</abbr> = codex Lipsiensis 1465</witness>
+        </listWit>
+        <listWit>
+          <witness xml:id="M"><abbr type="siglum">M</abbr> = codex Matritensis M 31</witness>
+          <witness xml:id="U"><abbr type="siglum">U</abbr> = codex Vrbinas 667, Vaticanus</witness>
+        </listWit>
+        <listWit>
+          <witness xml:id="v"><abbr type="siglum">v</abbr> = codicis Vossiani 390, Leidensis 3, pars prior</witness>
+        </listWit>
+        <bibl xml:id="ed"><abbr>*</abbr> = editoris coniecturae</bibl>
       </div>
     </front>
     <body>
