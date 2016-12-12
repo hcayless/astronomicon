@@ -95,12 +95,12 @@
     <body>
       <div type="edition" xml:id="book1">
         <head>M. MANILII • ASTRONOMICON • LIBER PRIMVS</head>
-        <lg><l>Carmine diuinas artes et conscia fati<app><note><q>diuinas</q> melius Salmasius a deis ortas intellegit quam Scaliger praesagas. uide 26, 48</note></app></l>
-          <l>sidera diuersos hominum uariantia casus,</l>
-          <l>caelestis rationis opus, deducere mundo<app><note><q>opus</q> ad <q>sidera cacus uariantia</q> per appositionem adnexum est, non ad deducendi aggrediendiue notionem <q>caelestis rationis</q>, eius
+        <lg><l n="1">Carmine diuinas artes et conscia fati<app><note><q>diuinas</q> melius Salmasius a deis ortas intellegit quam Scaliger praesagas. uide 26, 48</note></app></l>
+          <l n="2">sidera diuersos hominum uariantia casus,</l>
+          <l n="3">caelestis rationis opus, deducere mundo<app><note><q>opus</q> ad <q>sidera cacus uariantia</q> per appositionem adnexum est, non ad deducendi aggrediendiue notionem <q>caelestis rationis</q>, eius
             rationis quae caelum regit, 64 <q>totum aeterna mundum ratione moueri</q>, 251, 479,
             II 64, 82  <q>mundo</q>, caelo, ut 9 et passim</note></app></l>
-          <l>aggredior primusque nouis Helicona mouere</l>
+          <l n="4">aggredior primusque nouis Helicona mouere</l>
           <l n="5">cantibus et uiridi nutantis uertice siluas<app><note><q>et</q> in <q>ad</q> sine causa mutauit
             Gronouius obs. I 9, uide <cit><ref>Stat. silu, V 3 209 sqq.</ref> <quote>me quoque uocales lucos
             Boeotaque tempe | pulsantem . . . admiscere deae</quote></cit></note></app></l>
