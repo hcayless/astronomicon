@@ -77,7 +77,7 @@
           bibliography).-->
         <listWit>
           <!-- The xml:id definitions should be moved up to the section on MSS -->
-          <witness xml:id="G"><abbr type="siglum">G</abbr> = codex Gemblacensis, Bruxellensis 100012</witness>
+          <witness xml:id="G"><abbr type="siglum">G</abbr> = codex Gemblacensis, Bruxellensis 10012</witness>
           <witness xml:id="L"><abbr type="siglum">L</abbr> = codex Lipsiensis 1465</witness>
         </listWit>
         <listWit>
